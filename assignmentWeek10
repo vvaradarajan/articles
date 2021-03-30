@@ -1,0 +1,38 @@
+1) Using G*Power software, calculate the required sample size for a study, where the literature shows that previously conducted intervention of similar kind had shown a difference of means of 7, between the experimental group (Mean = 120, SD = +/-14) and control group (Mean = 127, SD = +/-12). Fix power at 80% and alpha at 0.05 level, and with a two tailed condition. Report the required sample size and the screenshot of the power analysis. (15 marks)
+
+a. GPower: Tests => Means:Two independent Groups => Type of power analysis: A priori: compute required sample size - given alpha, power and effect size
+b.Determine effect size => put in data (group 1: 120/14, Group2: 127/12) = 0.5368755
+c. Assume N2=N1 (control group and experimental group of same size)
+
+Hit calculate and get 56 and 56 for both groups
+
+
+2) Perform a post hoc power analysis assuming there were 34 participants in experimental group and 37 in control group. Report the achieved power and the screenshot of the power analysis. (15 marks)
+a. Same as Question 1 except choose the Type of power analysis as Post Hoc => use alpha=0.05 and effect size from question 1and get the power as 0.6058107
+
+3) Design an experimental study to investigate the effect of one month yoga program to reduce hypertension. List out various confounding factors and suggest how would you address them in your study. (15 marks)
+Answer is two parts:his
+Part I Design => Do something like question 1 (with some internet paper as reference). This is for a-priori, and determine the sample size.
+
+Helpful links:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4017459/#:~:text=There%20are%20various%20ways%20to%20modify%20a%20study%20design%20to,links%20between%20exposure%20and%20confounders.
+https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704-EP713_Confounding-EM/BS704-EP713_Confounding-EM3.html
+
+Some factors:
+age
+sex
+BMI
+ethnicity (white anglo-saxon, Indian from India, Africa, chinese..)
+Dietary preference: Vegetarian, Vegan, non-veg, heavy non-veg
+...
+Check the lectures if you find any (and also how to address them)
+
+
+4) What would you do in a situation when the required sample size shows a need of 75 participants in each of the two groups (yoga group and control group, total 150 participants), but you do not have 150 participants available at the study site. Comment on how you would conduct and report the study. (5 marks)
+
+Answer:  The power will go down (see Question 2).  You need at least 80% power (0.8) for valid conclusions.  Write out the definition of power: 
+https://www.statisticsteacher.org/2017/09/15/what-is-power/
+Power is the probability of rejecting the null hypothesis when, in fact, it is false. (i.e. the probability that the alternate hypothesis is true)
+Here is you try to do queston 1 and 2:
+Find a prior study as a sample and from there determine effect size etc. (you can take question 1 itself, and keep changing the power until you get a sample size of 75).  Now make the power = 0.80 and get back the 56.  So you will conduct the study if you have atleast 56.
+
