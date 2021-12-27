@@ -1,0 +1,63 @@
+An approach to configuring custom web-components.
+
+
+The problem:
+Web front end software is complex and nowadays written using web-components, an object oriented programming paradigm for User interface objects. Very very briefly each component is a web-page(html) or part of a web-page, along with a class (javascript) that handles all call backs from the html. Often the component has to configured or initialized in order for it render properly on the Screen. Such configuration information may be Titles, data for dropdowns, urls for API calls to servers etc. A key feature of browsers is that they load each component asynchronously.  The component state is reported via lifecycle callbacks from the browser. Therefore configuring a component becomes a two step process. The first being to ascertain that a component has been constructed and is available to accept configuration information, and the second to pass on configuration information to the component allowing it to render itself properly. An example would be a component in a test environment, where the urls used for API calls by the component point to the test server. The same component in the production environment would point to the production server. Using diagrams this is shown below.
+
+The configuration information can be obtained in a number of ways: hard-coded, from a javascript file which is part of the deployment package, storing and accessing the config information from browser's local storage, from an API call to an end-point that returns the config information. Of these the API call is quite elegant and versatile, since it allows all config information to be kept in one place and accessible to applications via the  ubiquitous http/s calls.
+
+When the web application is first invoked, the browser starts loading all components declared in the dom concurrently. The class behind each component, handles the callback events from the browser. Each component needs the configuration information, and the code to obtain the configuration can be placed in the handler that handles the event indicating that the component is available in the dom.'An alternative to having each component fetching the configuration, is to have one component fetching the configuration, and calling a method on the other components passing the configuration via parameters.
+
+We now follow the usual practice in showing that this method works, which is by showing code that works!
+Our sample application is to show information on 4 different Electric cars in four different tabs on a single web page. The components are designed as follows:
+1. A 'main' component that consists of 4 tabs.
+2. A component for each tab - i.e. a specific Electric car model. These load the information for that car model into the tab,
+
+When creating web-component applications, the easier way is to use a web-component library, which make available a variety of pre-built components. In addition they also provide a framework with base classes that contain boiler-plate code, and provide life-cycle events making the process of creating applications much easier.  In this solution, we use one such library .. the popular LitElement library (open-sourced by Google).  This library/framework is here:
+https://lit.dev/
+
+
+The configuration information for each of the tab component is the Url from which to fetch the information for that car model
+
+The process of distributing the config information is coded in the callback for the loading of the main  component:
+a. The main component gets the config information (In this article, this is 'hardcoded' within the main component for simplicity)
+b. The main component then waits until the child components(the tab components) are ready.
+c. The main component then calls the method 'passConfigInfoToChildren' on each child component, with the config information as the parameter.
+d. The 'passConfigInfoToChildren' method on the child component, updates config information and performs its initialization.
+
+The callback and convenience methods from LitElement used are:
+firstupdated => this callback indicates that the component is ready. This is used in the 'main'component to fetch the config information, and distributes it to the other components
+.updatecomplete => This is an event that is set when the compnent is ready. By awaiting this event for each child component, 'main' ensures that child components are ready to accept the configuration information.
+(For reference: The entire list of lit-element callbacks are here: https://lit.dev/docs/components/lifecycle/)
+
+
+Steps in creating the application:
+Web components (and associated browser behavior of silently ignoring undefined components) allow for the development process to be loosely coupled, allowing each component to be developed independently and then put together (duh!)
+We follow these steps:
+1. Design the 'main' component => the one with the tabs on it for each EV car
+2. Design the 'ev-comp' child component => the one that displays information about its Specific EV car. To get this done, this component needs the url from which to obtain this information which is considered 'configuration' information.  We will hard-code this information and build this component independently.
+3. Put the components together, and pass on the configuration informationn from the 'main' component to the child components.
+
+Step 1: Design the 'main' component. This code is shown below:
+
+
+
+Drawbacks of this approach:
+1. The child components that receive the config information have to be 'hard-coded' in the main 'firstupdated' callback. For many applications, this drawback is not serious, as they do not create new children dynamically.  This drawback can be addressed, by searching for 'main' component by traversing back to the parent. A parent method  can then be called to obtan the configuration.
+
+
+
+.  This component initializes the tab with 
+
+
+A lot of things have changed since the term client-server came into parlance. In this article, the client refers to a javascript application that runs on the browser, and the server to an application that runs on a backend server. The client calls the server using an API (or url) interface and accomplishes its front-end functions.  The client needs to know various information about the server: example: The Api endpoints, static information such as lists for drop-downs etc. If you pose this  question as a search on Google, you will get a load of information on 'Discovery' documents etc., and that is the way to go if your server will have a variety of clients and client-developers who have no clue as to how the server operates.
+
+In the more frequent case where you are developing both the server and the client, the complexity is much reduced. You can easily configure the client with your knowledge of the server. What you really need is a 'client-information' data to configure the client. If this information is generated by the server via an Api call, then the client, when it starts calls this Api and configures itself based on the response. So far so good.
+The complexity arises in the Javascript client because of how the web-technology on the browser operates. The client application are often complex consisting of numerous html and javascript files and these are loaded and initialized in parallel or in an asynchronous fashion.  In this scenario, a normal solution is to have the configuration information accessed via api by a single client component (or script) and then shared with the other components. Herein lies the challenge. The browser loads each part of the client application concurrently (making it very fast loading!) however resulting in a lack of order in component loading. To impose the requirement that the configuration should be available to the component,  requires using of callback events to confirm components have been loaded, and hence available for configuration.
+
+Configuration is a special case of passing information between components. Configuration is one of the first actions to be taken and some components requiring configuration may not be created yet. Therefore configuration process needs to wait until all components are created.
+in the beginning, 
+
+
+https://toyota.scene7.com/is/image/toyota/BZ4_MY23_0018_V001-1?fmt=jpg&fit=crop&resMode=bisharp&qlt=90&wid=1696&hei=952
+
