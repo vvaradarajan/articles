@@ -1,0 +1,17 @@
+1. ServerClientInOne:
+This is for a webApplication, where both the backend and the frontend are coded into one git repo, and executed from the same server as one unit.  This removes the complexity of a separate client (which is a single Page App) and use only one port.
+The concept:
+a. Static paths are defined for the client as distinct from the paths to the back-end.
+b. The startup file ('index.html') is served from the back-end, and has the baseUri for the html page appropiately set along with any other configs for that specific client.
+This can be elaborated into a complete behaviour by having different clients based on some variable in the backend => example: different question paper for each student!
+
+2. Json snippetizer
+
+
+3. Recursion:
+There are many articles on recursion
+
+4. Async Python components:
+MultiEvent to single event: (inspired by the AND/OR gate logic)
+
+5. The circular Mod function
