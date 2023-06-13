@@ -1,0 +1,22 @@
+Install Python
+Script:
+sudo apt-get update
+sudo apt install build-essential checkinstall 
+sudo apt install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
+ver=3.11.4
+cd /usr/src 
+sudo wget https://www.python.org/ftp/python/${ver}/Python-${ver}.tgz 
+sudo tar xzf Python-${ver}.tgz 
+cd Python-${ver} 
+sudo ./configure --enable-optimizations 
+sudo make altinstall
+
+#whisper key
+OPENAI_API_KEY='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'
+
+curl --request POST \
+  --url https://api.openai.com/v1/audio/transcriptions \
+  --header "Authorization: Bearer $OPENAI_API_KEY" \
+  --header 'Content-Type: multipart/form-data' \
+  --form file=@/home/vv/Downloads/the-gettysburg-address.mp3 \
+  --form model=whisper-1
