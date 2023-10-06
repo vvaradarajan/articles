@@ -7,6 +7,8 @@ This can be elaborated into a complete behaviour by having different clients bas
 
 2. Json snippetizer
 
+3. The dark side of two-factor authentication: Loss of phone and you are done! and No Human!
+
 
 3. Recursion:
 There are many articles on recursion
@@ -18,6 +20,8 @@ Just have one route to the server and let that handle the routing internally
 MultiEvent to single event: (inspired by the AND/OR gate logic)
 
 5. The circular Mod function
+
+
 
 
 Some proposed Theorems:
