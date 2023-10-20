@@ -1,0 +1,5 @@
+port: 8012  
+url: 'localhost/diy'
+serverUrlPrefix: 'localhost/diy'
+clientResourcePrefix: 'spa'
+clientLoc: 'client/build'
