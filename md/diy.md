@@ -20,7 +20,7 @@ The server runs on the backend, and serves one request directly from the user.  
 The are complex components in here - the server, the client, middleware (nginix) and each can be elaborate. Here we concentrate on the glue that binds these together.  This glue is the configuration file.  This is diagrammed below:  
 <img src="../img/diyArchitecture.png" />
 
----
+
 | Config Item          | Description                                                                                                                                                     |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | port                 | This is port that the webapp runs on. User requests from the browser are routed to this port by nginx                                                           |

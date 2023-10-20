@@ -1,0 +1,12 @@
+[Unit]
+Description=manages one instance of game
+
+[Service]
+Type=simple
+User=root
+Group=root
+ExecStart=/usr/bin/sudo /home/vv/git/Articles/server/etc/systemd/articles.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target

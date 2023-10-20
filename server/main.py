@@ -44,9 +44,12 @@ async def clientSPA(request):
 
 @app.route("/article/<artMdNm>")
 async def showArticle(request,artMdNm):
+    style=('<style type="text/css" rel="stylesheet">' +
+           'table, th, td {border: 1px solid;}' +
+            '</style>')
     with open(f'{installDir}/../md/{artMdNm}.md','r') as f:
-        md = f.read()
-    html= markdown.markdown(md)
+        md =style+ f.read()
+    html= markdown.markdown(md,extensions=['tables'])
     return response.html(html)
 
 if __name__ == "__main__":
