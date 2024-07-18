@@ -44,7 +44,10 @@ async def clientSPA(request):
 
 @app.route("/twinPrimes")
 async def twinPrimes(request):
-    return 'machismo'
+    with open(f'{installDir}/../twinPrimes/writeup.md', "r", encoding="utf-8") as input_file:
+        text = input_file.read()
+        html = markdown.markdown(text)
+    return response.html(html)
 
 @app.route("/article/<artMdNm>")
 async def showArticle(request,artMdNm):
