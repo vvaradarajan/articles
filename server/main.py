@@ -43,7 +43,7 @@ async def clientSPA(request):
     return response.html(indexHtml)
 
 @app.route("/twinPrimes")
-async def twinPrimes():
+async def twinPrimes(request):
     return 'machismo'
 
 @app.route("/article/<artMdNm>")
