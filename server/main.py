@@ -42,6 +42,10 @@ async def clientSPA(request):
 
     return response.html(indexHtml)
 
+@app.route("/twinPrimes")
+async def twinPrimes():
+    return 'machismo'
+
 @app.route("/article/<artMdNm>")
 async def showArticle(request,artMdNm):
     style=('<style type="text/css" rel="stylesheet">' +
