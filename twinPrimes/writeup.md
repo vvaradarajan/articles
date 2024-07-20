@@ -117,14 +117,14 @@ for Prime: 7 has Length = 49 that repeats every 210
 
 Now we have gotten thru this code, we can continue our experiments..
 
-Experiment #1: Validate this pattern by printing all primes below 100.
-To do this, observe that the first number eliminated from the candidate prime list by a prime is that prime*prime. Ex: 3 elminates candidate primes from 9 onwards: i.e. 9,15..
-Therefore if we find the pattern for primes < 10*10 we should be able to find all primes below 100. 
+## Experiment #1: Validate this pattern by printing all primes below 100.
+To do this, observe that the first number eliminated from the candidate prime list by a prime is that prime\*prime. Ex: 3 elminates candidate primes from 9 onwards: i.e. 9,15..
+Therefore if we find the pattern for primes < 10\*10 we should be able to find all primes below 100. 
 The design is to add a member function getPrimesUptoN as shown below:
 
 ```python
 
-#Experiment #1:
+## Experiment #1:
 
     def getPrimesUptoN(self,N):
         #gets all prime number upto N
@@ -151,7 +151,7 @@ NoOfPrimes = 25
 ```
 Which turns out to be correct!
 
-Experiment 2: Let us use this to calculate the primes upto 1000.
+## Experiment 2: Let us use this to calculate the primes upto 1000.
 When we try this with the above code, the machine hangs - i.e. keeps computing. A quick review indicates that it is computing the pattern and the pattern is of length on the order of prime factorial.  The output line:
 ```
 for Prime: 22 has Length = 1658881 that sums to 9699694
@@ -159,8 +159,8 @@ for Prime: 22 has Length = 1658881 that sums to 9699694
 shows a pattern length of 1658881!  The 'sums to 9699694' indicates that we have been computing the pattern to almost 10 million, when calculating primes upto only 1000!
 Experiment 2 failed! We will leave this as is now, and proceed to further experiments..
 
-Experiment 3:
-How many candidate primes does the new prime eliminate? To explain: The sieving process is an elimination game. Each prime eliminates all its multiples from becoming primes. The first prime number 2 eliminates half the numbers. Does the inclusion of the next prime number (3) result in the elimination of 1/3 of the remaining numbers?
+## Experiment 3: How many candidate primes does the new prime eliminate? 
+To explain: The sieving process is an elimination game. Each prime eliminates all its multiples from becoming primes. The first prime number 2 eliminates half the numbers. Does the inclusion of the next prime number (3) result in the elimination of 1/3 of the remaining numbers?
 So we want to know if including the next prime p results in the elimination of 1/p of the remaining numbers? Intuitively this seems plausible and let us verify by experiment.
 We code a couple of methods and add a member as below:
 
@@ -225,7 +225,7 @@ Eureka! The differce between the actual and expected is 0%! So yes..Each new pri
 
 Success!
 
-#Experiment 4:
+## Experiment 4: How many TWIN candidate primes does the new prime eliminate? 
 
 Considering twin primes (primes separated by 2). In twin primes two primes are involved. It seems plausible that new primes will eliminate have a chance at eliminating either of these two.. It cannot eliminate both, since the difference is 2 and the new prime is bigger than 2.  So we propose that each prime p eliminates 2/p of the candidate twin primes.
 Let's do  this experiment with code changes for addint one member and a method:
