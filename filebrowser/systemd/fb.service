@@ -1,0 +1,12 @@
+[Unit]
+Description=manages one instance of mutualcoupling
+
+[Service]
+Type=simple
+User=vv
+Group=vv
+ExecStart=/home/vv/git/articles/filebrowser/systemd/filebrowser.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target

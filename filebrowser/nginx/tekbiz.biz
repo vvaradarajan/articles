@@ -1,0 +1,142 @@
+# tekbiz.biz configuration
+#
+server {
+	listen 80 default_server;
+	listen [::]:80 default_server;
+
+	root /var/www/html;
+
+	# Add index.php to the list if you are using PHP
+	index index.html index.htm index.nginx-debian.html;
+
+	server_name _;
+
+	location / {
+		# First attempt to serve request as file, then
+		# as directory, then fall back to displaying a 404.
+		try_files $uri $uri/ =404;
+	}
+}
+
+server {
+
+	root /var/www/html;
+
+	# Add index.php to the list if you are using PHP
+	index index.html index.htm index.nginx-debian.html;
+    server_name tekbiz.biz; # managed by Certbot
+
+
+	location / {
+		# First attempt to serve request as file, then
+		# as directory, then fall back to displaying a 404.
+		try_files $uri $uri/ =404;
+	}
+
+    listen [::]:443 ssl ipv6only=on; # managed by Certbot
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/tekbiz.biz/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/tekbiz.biz/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+    
+    set $mcPort 8001;
+    location ~ /mc/(.*) {
+	#pass the query params also!
+	proxy_pass  http://0.0.0.0:$mcPort/$1$is_args$args;
+    }
+    location /mc {
+       return 302 /mc/;
+    }
+
+    set $mpPort 9100;
+    location ~ /mp/(.*) {
+	#pass the query params also!
+	proxy_pass  http://0.0.0.0:$mpPort/$1$is_args$args;
+    }
+    location /mp {
+       return 302 /mp/;
+    }
+    set $gpPort 9102;
+    location ~ /gp/(.*) {
+	#pass the query params also!
+	proxy_connect_timeout 75s;
+	proxy_pass  http://0.0.0.0:$gpPort/$1$is_args$args;
+    }
+    location /gp {
+       return 302 /mp/;
+    }
+    set $carsPort 9104;
+    location ~ /cars/(.*) {
+	#pass the query params also!
+	proxy_connect_timeout 75s;
+	proxy_pass  http://0.0.0.0:$carsPort/$1$is_args$args;
+    }
+    location /cars {
+       return 302 /cars/;
+    }
+    set $lrPort 8011;
+    location ~ /lr/(.*) {
+	#pass the query params also!
+    	proxy_pass  http://0.0.0.0:$lrPort/$1$is_args$args;
+    }
+    location /lr {
+       return 302 /lr/;
+    }
+
+    set $kuPort 8013;
+    location ~ /vayu/(.*) {
+	#pass the query params also!
+    	proxy_pass  http://0.0.0.0:$kuPort/$1$is_args$args;
+    }
+    location /vayu {
+       return 302 /vayu/;
+    }
+
+    set $gamePort 8021;
+    location ~ /game/(.*) {
+	#pass the query params also!
+    	proxy_pass  http://0.0.0.0:$gamePort/$1$is_args$args;
+    }
+    location /game {
+       return 302 /game/;
+    }
+
+    set $breathePort 8002;
+    location ~ /breathe/(.*) {
+	#pass the query params also!
+    	proxy_pass  http://0.0.0.0:$breathePort/$1$is_args$args;
+    }
+    location /breathe {
+       return 302 /breathe/;
+    }
+    set $articlesPort 8501;
+    location ~ /articles/(.*) {
+	#pass the query params also!
+    	proxy_pass  http://0.0.0.0:$articlesPort/$1$is_args$args;
+    }
+    location /articles {
+       return 302 /articles/;
+    }
+    set $antWebPort 8102;
+    location ~ /kant/(.*) {
+	#pass the query params also!
+    	proxy_pass  http://0.0.0.0:$antWebPort/$1$is_args$args;
+    }
+    location /kant {
+       proxy_pass  http://0.0.0.0:$antWebPort/kant;
+    }
+}
+server {
+    if ($host = tekbiz.biz) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+	listen 80 ;
+	listen [::]:80 ;
+    server_name tekbiz.biz;
+    return 404; # managed by Certbot
+
+}
+

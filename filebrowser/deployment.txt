@@ -1,0 +1,12 @@
+Filebrowser:
+usercode/pwd: admin/admin
+
+nginx changes:
+/etc/nginx/sites-available/tekbiz.biz
+-maps 'articles' to the filebrowser port
+The filebrowser config is exported into 'filebrowser.cfg'
+
+filebrowser info:
+filebrowser config export /home/vv/git/filebrowser/filebrowserCfg.yml
+
+
