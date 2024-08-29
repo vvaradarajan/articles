@@ -468,3 +468,8 @@ if __name__=='__main__':
     args = sys.argv
     CandPrimes.test(args)
 ```
+
+## Gedanken
+
+Some thoughts on gaps to the next prime.
+The gap between two consecutive primes cannot be a prime. The gap is even etc.  What this implies is that a new prime cannot eliminate the next candidate prime. Continuing on, the first candidate prime a number eliminates is its square. Therefore there must be a prime number between a prime and its square!
