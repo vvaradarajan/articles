@@ -1,0 +1,6 @@
+#Recursive search of JSON object
+Sometimes we come across a requirement to search for a Json object that has a particular key equalling a particular value.  A simple example is a search thru a composite parts list in json, for a part with a name 'big-nut'. The composite Json is:
+
+{"machine":{"name": "complex",
+"price": 1000000,
+"composite": ({"name": "small nut", "price": 1}}}
