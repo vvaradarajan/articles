@@ -306,7 +306,7 @@ nextPattern = for Prime: 19 pattern has Length = 1658881 that sums to 9699694
 For prime 19 twinPrimesBeforeElimination = 423225, after = 378675 %Eliminated = 10.526315789473685, expected = 10.526315789473685
 Experiment 4 completed..
 ```
-Eureka! The differce between the actual and expected is 0%! So yes..Each new prime p eliminates 1/p of the remaining candidate primes.
+Eureka! The differce between the actual and expected is 0%! So yes..Each new prime p eliminates 2/p of the remaining candidate twin primes.
 
 Success!
 
