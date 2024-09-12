@@ -22,8 +22,8 @@ baseUrl = f'{G["clientResourcePrefix"]}'
 #clientDir = '/home/vv/git/ASrvrClntIn1/client/deploy'
 print(f'Vasan: clientDir={clientDir}')
 
-#app.static(f'/{G["clientResourcePrefix"]}', clientDir)
-app.static('/img',f'{installDir}/../img')
+app.static(f'/{G["clientResourcePrefix"]}', clientDir)
+#app.static('/img',f'{installDir}/../img')
 print(f'imgDir = {installDir}/../img')
 
 
