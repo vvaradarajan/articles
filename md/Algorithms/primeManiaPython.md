@@ -122,6 +122,7 @@ To do this, observe that the first number eliminated from the candidate prime li
 Therefore if we find the pattern for primes < 10\*10 we should be able to find all primes below 100. 
 The design is to add a member function getPrimesUptoN as shown below:
 
+
 ```python
 
 ## Experiment #1:
