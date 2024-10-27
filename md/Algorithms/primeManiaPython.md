@@ -315,6 +315,50 @@ Now take a moment and reflect on Experiment #4. For twin patterns, the eliminati
 Not only that, this method can be used to predict that primes separated by every even number exists infinitely!
 Voila! Have we solved one of the most troublesome conjectures in Math? Has the slithering Python successfully weaved all around the number system?
 
+## Experiment #5: Maximum Gap between prime numbers
+
+This is an experiment to see how the gaps between primes behaves/increases. We see from the gap pattern of candidate primes (exxperiment #1), that every succesive prime simply removes one or more candidate primes, causing the gap to widen to the the sum of the gap prior and post to that candidate prime that was removed. Ex: for prime 3, the gap pattern is 2,2,4,2,4,2,4.. (i.e. candidate primes are 3+2,3+2, 3+4..). Now the next prime removes 25 from this pattern, and gap there between 23 and 25 now becomes the sum of gaps 2 and 4 = 6, and the next candidate prime becomes 29 instead of 25. This experiment finds the max gap between candidate primes and compares them with the max possible which is twice the previous maximum gap.
+
+Another aspect of experiment 5, is that the first candidate prime that can be removed by a new prime (i.e. divisible by the new prime) is (new prime) squared. This difference between X and X squared is greater than 2x for all x>2. So if this gap must be less than the square of the prime.
+
+Here is the result of experiment #5:
+
+```
+seq: 1, prime = 2, maxGap = 2, primeSqr = 4, 2^seq = 2, maxGap/prime = 1.0
+seq: 2, prime = 3, maxGap = 4, primeSqr = 9, 2^seq = 4, maxGap/prime = 1.3333333333333333
+seq: 3, prime = 5, maxGap = 6, primeSqr = 25, 2^seq = 8, maxGap/prime = 1.2
+seq: 4, prime = 7, maxGap = 10, primeSqr = 49, 2^seq = 16, maxGap/prime = 1.4285714285714286
+seq: 5, prime = 11, maxGap = 14, primeSqr = 121, 2^seq = 32, maxGap/prime = 1.2727272727272727
+seq: 6, prime = 13, maxGap = 22, primeSqr = 169, 2^seq = 64, maxGap/prime = 1.6923076923076923
+seq: 7, prime = 17, maxGap = 26, primeSqr = 289, 2^seq = 128, maxGap/prime = 1.5294117647058822
+```
+
+What is that last part of the the result 'maxGap/prime'? That is the point of this whole article. Using python we can speculate and calculate! 
+The speculation is that when the maxGap falls below the prime, then from then on, the next prime must be between this prime and twice its value. This is an old conjecture, and here we have an opportunity to continue this sequence to see if that happens. Unfortunately in this version of Python, either number precision or the length of the pattern maxed out at prime = 17 and the program is 'hanging' there! So it remains a mystery and may even be a low hanging fruit if we move on to numpy to handle larger numbers or find a way to compress the pattern.
+
+## Experiment #6: Finding the length of the repeating pattern
+
+From experiment 1, we see that the pattern for prime X looks like n(a,b,c,..)* and a+b+c+..= prime factorial for X
+So this experiment is to find length of the pattern.  The logic is like this: each prime eliminates 1/prime in the pattern. Ex: for 5, the pf(5)=2*3*5 = 30 => 15 eliminated by 2, of remaining 15 => 5 eliminated by 3, of remaining 10 2 eliminated by 5 which gives a pattern length 30-15-5-2 = 8. Verify this with experiment #1: 
+Pattern for 5  (2,([4, 2, 4, 2, 4, 6, 2, 6])*) and we notice that the repeating pattern length is 8
+
+Following this method here is length of the pattern for primes < 100
+
+## Experiment #6: Compressing the Pattern
+
+With each successive prime X, elimination in the candidate pattern start at X^2 and all X*Y where Y is a candidate prime > X. This forms the new list of candidate primes. What if this 'elimination' step itself is represented as a pattern? What if we can get a cascade of patterns instead of one pattern for each prime? The number of cascades will be the sequence number of the prime.  Ex: 
+2 will have a cascade of only 1 pattern which is 1,(2)*
+3 will have cascade of 2,(2)* and (2) instead of 2(2,4)*
+5 will have cascades of 2,(2)*, (2), (6,2) instead of (2,([4, 2, 4, 2, 4, 6, 2, 6])*)
+
+To derive the pattern for 5:
+2,(2)*->2(2,2,2..=(2)=> 2,(2,4) =(6,3)=> 2,(4,2,4,2,4,x2,4,2,x4,2)->2(4,2,4,2,4,6,2,6)->2((4,2)(2),(6,2,6))*
+
+Way to create a new pattern:
+1. remove the 1st one in the repeating pattern and put it outside, and add it to the end:
+2,(2,4) => 2(4,2)*
+2. Get the x^2, Find the number of repeats to get to x^2 minus 1 => so the pattern is (4,2)(2) 
+
 Now let us wait for the Greeks (i.e. formal proof using greek characters) to follow the path of the Python!
 
 Appendix I: The complete code..

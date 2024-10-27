@@ -58,3 +58,8 @@ Put required qualtity on a plate or bowl and microwave for 1-3 minutes to melt o
 
 <b>Time to Eating:</b> 7 minutes
 
+# Upma
+
+<b>Ingredients:</b> mustard, 1-spoon urad dal, salt, cashews, cream of wheat (main)
+
+Fry mustard in oil, and urad dal, put two cups of water to boil, add cream wheat while stirring- add carrots, peas, chopped jalopenos. After it becomes upma, add fried cashews, 
