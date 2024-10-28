@@ -28,3 +28,8 @@ So the $59 gone down the drain?
 
 So the $59 is well worth! If you pay more that $59, breathing patterns can be monitored as well, and all results should co-ordinate even better!
 
+#Appendix I
+Other recordings.
+1. Daytime Nap (30 mins):  
+<img src='img/SpO2_10_27.jpeg'>
+
