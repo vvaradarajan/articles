@@ -158,7 +158,7 @@ def getConfig():
     configFileNm = f'{installDir}/config.yml'
     with open(configFileNm, "r") as f:
         G = yaml.safe_load(f.read())
-    print(f'[global]ConfigFileName: {configFileNm}\nConfig:\n{json.dumps(G,indent=4)}')
+    print(f'[global]ConfigFileName: {configFileNm}\nConfig:\n {json.dumps(G, indent=4)}')
     return G
 
 G=getConfig()
@@ -180,7 +180,7 @@ async def clientSPA(request):
         indexHtml = f.read()
     #modify and insert the baseUrl and the serverUrlPrefix (to call server api from client)
     indexHtml = indexHtml.replace('${baseUrl}',baseUrl)
-    indexHtml = indexHtml.replace('${serverUrlPrefix}',G["serverUrlPrefix"])
+    indexHtml = indexHtml.replace('${serverUrlPrefix}' ,G["serverUrlPrefix"])
     print(f'Vasan:\n{indexHtml}')
 
     return response.html(indexHtml)
@@ -200,7 +200,7 @@ if __name__ == "__main__":
 </head>
 <body>
     <div>
-        <diy-form server-url-prefix="${serverUrlPrefix}""></diy-form>
+        <diy-form server-url-prefix="${serverUrlPrefix}"> </diy-form>
     </div>
 </body>
 </html>
@@ -289,7 +289,7 @@ class FormElement extends LitElement {
     } else {
       // await this.parent.setChart(fd);
       //this.parent.closeApp()
-      let urlToPost=`http://${this.serverUrlPrefix}/${this.saveDataUrlSuffix}`
+      let urlToPost=`http://${this.serverUrlPrefix }/${this.saveDataUrlSuffix}`
       console.log(`Form data submitted to ${urlToPost}`)
       this.serverMsgresp = await postDataToUrl(urlToPost,fd)
       if (this.serverMsgresp.includes('saved')) this.state='submitted'
@@ -302,7 +302,7 @@ class FormElement extends LitElement {
   render() {
     if (this.state=='submitted')
     return html`<img src="img/HalloweenThumbsUp.avif" /><br/>
-      <span style="font-size: 200%;color: blue;">${this.serverMsgresp}</span>`
+      <span style="font-size: 200%;color: blue;"> ${this.serverMsgresp}</span>`
     return html`
       <form onsubmit="return false;">
       <div width="80%">
