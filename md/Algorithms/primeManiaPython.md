@@ -148,7 +148,7 @@ Output of this is:
 ```
 Primes: [2, 3, 5, 7, 11]
 NoOfPrimes = 25 
- primes: 2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,73,79,83,89,97
+ primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97
 ```
 Which turns out to be correct!
 
@@ -179,7 +179,7 @@ def getNextPattern(self):
             self.getNextPattern()
             np=self.primes[-1] #new prime
             lrg = len(self.pattern) -1 #length of regular pattern (1st element is a prime and not part of regular patter of candidate primes)
-            elimF = self.noOfcandPrimesEliminated*100/(lrg+self.noOfcandPrimesEliminated)
+            elimF = self.noOfcandPrimesEliminated*100 / (lrg+self.noOfcandPrimesEliminated)
             print(f'Prime Elimination Fraction for {np} = {elimF}, expected = 100/{np}, '
                 f'%diff = {elimF - 100/np} %')
 
@@ -261,7 +261,7 @@ Method modified:
             twinPrimesInRawPattern = countTps(tempRg)
             self.getNextPattern()
             twinPrimesAfterElimination = countTps(self.pattern)
-            pctEliminated = (twinPrimesInRawPattern-twinPrimesAfterElimination)*100/twinPrimesInRawPattern
+            pctEliminated = (twinPrimesInRawPattern - twinPrimesAfterElimination) * 100/twinPrimesInRawPattern
             pctExpected = 2*100/nP
             print(f'For prime {nP} twinPrimesBeforeElimination = {twinPrimesInRawPattern}, after = {twinPrimesAfterElimination}'
                   f' %Eliminated = {pctEliminated}, expected = {pctExpected}')
@@ -460,7 +460,7 @@ class CandPrimes:
             self.getNextPattern()
             np=self.primes[-1] #new prime
             lrg = len(self.pattern) -1 #length of regular pattern (1st element is a prime and not part of regular patter of candidate primes)
-            elimF = self.noOfcandPrimesEliminated*100/(lrg+self.noOfcandPrimesEliminated)
+            elimF = self.noOfcandPrimesEliminated*100 / (lrg+self.noOfcandPrimesEliminated)
             print(f'Prime Elimination Fraction for {np} = {elimF}, expected = 100/{np}, '
                 f'%diff = {elimF - 100/np} %')
         
@@ -480,7 +480,7 @@ class CandPrimes:
             twinPrimesInRawPattern = countTps(tempRg)
             self.getNextPattern()
             twinPrimesAfterElimination = countTps(self.pattern)
-            pctEliminated = (twinPrimesInRawPattern-twinPrimesAfterElimination)*100/twinPrimesInRawPattern
+            pctEliminated = (twinPrimesInRawPattern - twinPrimesAfterElimination) * 100/twinPrimesInRawPattern
             pctExpected = 2*100/nP
             print(f'For prime {nP} twinPrimesBeforeElimination = {twinPrimesInRawPattern}, after = {twinPrimesAfterElimination}'
                   f' %Eliminated = {pctEliminated}, expected = {pctExpected}')
