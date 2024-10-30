@@ -31,6 +31,6 @@ So the $59 is well worth! If you pay more that $59, breathing patterns can be mo
 #Appendix I
 Other recordings.  
 1. Daytime Nap (30 mins):  
-<img src='img/SpO2_10_27.jpeg'>
+<img src='img/SpO2_10_27.jpeg'>  
 2. L Recording(2+hrs):  
 <img src='img/LSpO2_10_29.png'>
