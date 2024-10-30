@@ -30,8 +30,8 @@ def hourDecimal(dtMin,dt,ti:datetime):
     return(ti.hour*3600+ti.minute*60+ti.second)/3600 + addHrs
 
 def main():
-    spO2FileNms = ['SpO2-20241024-223043.ods','SpO2-20241026-224044.ods','SpO2-20241027-161248.ods']
-    spo2Arr = getDatafromOds(spO2FileNms[2])
+    spO2FileNms = ['LathaSpO2-20241029-230021.ods','SpO2-20241024-223043.ods','SpO2-20241026-224044.ods','SpO2-20241027-161248.ods']
+    spo2Arr = getDatafromOds(spO2FileNms[0])
     #x-axia time seq
     dtMin,dtMax = min(x.dt for x in spo2Arr), max(x.dt for x in spo2Arr)
     hrTimeSeq = [hourDecimal(dtMin,x.dt,datetime.strptime(x.ti,'%I:%M:%S %p')) for x in spo2Arr ]
@@ -49,7 +49,7 @@ def main():
     spo2UB,spo2LB = 100,93
     ax.fill_between(hrTimeSeq,hrLowerBound,hrUpperBound, color='green', alpha=0.1, label='HeartRate')
     ax.fill_between(hrTimeSeq,spo2LB,spo2UB, color='green', alpha=0.1, label='SpO2')
-    plt.title("Subject: Vasan")
+    plt.title("Subject: L")
     plt.show()         
 
 
