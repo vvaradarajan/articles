@@ -1,5 +1,21 @@
 # Sleep Apnea - spo2 measurement
-        
+
+## (main article below this. This section is recent updates only)
+
+## Updates: Recordings with Tens
+### Tens Overview:
+A tens machine was purchased from Temu. This is a unit that 'jerks' the throat muscles with low level current pulses via a small device placed around the throat and secured there using earbands. The electrodes are 'metal balls' that touch either side of the throat. The concept involved is to keep the airways open by preventing the 'relaxation' of throat muscles, which occurs in sleep apnea. Many journal articles point to the effectiveness of Tens in treating sleep apnea.  
+An issue soon became apparent. Human hair is conductive specially when moist. The electrical pulses where causing 'pin-prick-sensitivity' probably at the hair follicle. To prevent that a dry tissue was placed over the electrodes.
+
+### Results: 
+In an one-hour sleep session, the tens seemed to work. The chart is shown below and notice the steady SpO2 level in the mid-90's.
+
+<img src="img/SpO2_12_01.jpeg" />
+
+### Conclusion:
+More results are needed with Tens. The one hour sleep session is not enough, but shows good promise.
+
+## Main Article
 What if you don't breathe? Very obviously, the body will lack oxygen, stop providing energy required or organs to operate (including the brain..) and that is the end! Sure, however somewhere in the body/brain, this is monitored, and panic sets in, and breathings jerks with a gasp, the heart rate goes up and SpO2, yes SpO2 - the oxygen in your blood surges up, and soon all is back to normal!
 
 This is what happens in 'Sleep Apnea'.  So at just $59, this SpO2 device that monitors your SpO2 for 40+hours continuously is a deal!
