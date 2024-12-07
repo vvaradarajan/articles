@@ -30,7 +30,7 @@ def hourDecimal(dtMin,dt,ti:datetime):
     return(ti.hour*3600+ti.minute*60+ti.second)/3600 + addHrs
 
 def main():
-    spO2FileNms = ['LathaSpO2-20241029-230021.ods','SpO2-20241024-223043.ods','SpO2-20241026-224044.ods','SpO2-20241027-161248.ods']
+    spO2FileNms = ['SpO2-20241206-045639.ods','LathaSpO2-20241029-230021.ods','SpO2-20241024-223043.ods','SpO2-20241026-224044.ods','SpO2-20241027-161248.ods']
     spo2Arr = getDatafromOds(spO2FileNms[0])
     #x-axia time seq
     dtMin,dtMax = min(x.dt for x in spo2Arr), max(x.dt for x in spo2Arr)

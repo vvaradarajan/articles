@@ -1,6 +1,16 @@
 # Sleep Apnea - spo2 measurement
 
 ## (main article below this. This section is recent updates only)
+## Updates: Further Recordings with Tens
+### Update summary: 
+Wore tens and went to sleep and got up 6 hrs later. Had forgotten to turn on the SpO2 recording. Started it and went to sleep again and got this 30-40 min recording. Again Tens seemed to have worked.  Here is a picture of my Tens from Temu:
+
+<img src="img/tens.png">
+The 'X' indicates the dome-shaped steel electrodes. These are beneath a white paper tape, I put. This paper tape comes between the throat and the electrodes to make the prickly tens shocks tolerable for sleep. I have a suspicion that just the feeling of the instrument may prevent the throat muscles from relaxing(?).  
+Below the latest Tens recording of sleep.
+
+<img src="img/Screenshot from 2024-12-06 15-52-33" />
+
 
 ## Updates: Recordings with Tens
 ### Tens Overview:
