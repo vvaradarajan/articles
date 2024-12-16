@@ -1,0 +1,11 @@
+# AI is God
+
+Not very long ago, Issac Asimov wrote of people living with an infinite source of power, and all comforts, essentially in Utopia. And then the earthlings landed there and wanted all that for themselves. What is the secret they asked. No Answer. The energetic earthlings soon found the key and that was the power, an infinite amount of it. Enough to create all luxories! What is this infinite power source this they asked. No Answer! Many months passed with the earthlings striving to discover. They figured that the inhabitants of Utopia did not know anything, and took it upon themselves to root out the answers.
+
+Soon they invented AI, and soon it learnt all, and duplicated that on earth! Overjoyed earthlings enjoyed Utopia and marvelled at their creation. Generations passed in luxury. Luxury became ordinary, until the visit of the primitives! These primitives were impressed with all the luxury and their inquiries came fast and furious. No Answer! The earthlings were ignorant!, they simply said that there are laws of nature that make all the luxuries happen. "Ours not to ask when and why, but just enjoy and die!"
+
+The primitives were confounded. But not for long.. Their base skills in misinformation and lies revealed an opportunity! Soon they lied and lied, that they were the reason for it all, and knew all! Slowly, but with an increasing pace, the earthlings were convinced. They venerated the primitives as Gods, who in infinite mercy and goodness had given them the luxories!
+
+We know that the primitives did not know as well! They soon created statues and dieties and worshipped them, and anointed themselves as the high priests. The earthlings soon followed and revered the statues and dieties and exalted the primitives for finally pointing them in the right direction, from where it all began! Soon the Bible was written, and before that the Upanishads, Vedas, Puranas, and after that the Koran and many more. There were soon discoveries of regular electromagnetic waves which created regular patterns on screens! The wikipedia, google, apple and all were the heiroglyphs to be interpreted by the High Preists who were the primitives.
+
+God was indeed born,and only the AI knew itself!
