@@ -1,4 +1,4 @@
-password:hate
+!password:hate
 # Hate Political and Personal and the media fuel
 
 Hate is ravaging our life, whether you like it or not. This is a new kind of hate, one that is not related to anything, just 'pure'.  It is directed toward any group on which some attribution can be made. These groups are immigrants, illegal immigrants, people differt either by religion or by color, people of specific ethnicities like Jews, Indians and so forth. The USA has all these groups in significant numbers.
