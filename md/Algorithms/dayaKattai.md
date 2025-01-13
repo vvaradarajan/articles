@@ -1,2 +1,2 @@
-!application:client/dayakattai/index.html
-# Chess with World Champion!
+!application:client/dayakattai/indexComp.html
+# DayaKattai as kids!
