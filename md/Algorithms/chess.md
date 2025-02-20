@@ -1,2 +1,2 @@
-!application:client/chess/indexComp.html
+!application:client/chess/component.html
 # Chess with World Champion!
