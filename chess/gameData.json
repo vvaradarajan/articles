@@ -1,0 +1,24 @@
+{
+  "myPuzzles": {},
+  "test": {
+    "white": {
+      "K": [
+        "f6"
+      ],
+      "Q": [
+        "f5"
+      ]
+    },
+    "black": {
+      "B": [
+        "e5"
+      ],
+      "K": [
+        "f4"
+      ]
+    },
+    "nextMoveColor": "white",
+    "desc": "newPuzzle",
+    "ack": "self"
+  }
+}
