@@ -1,6 +1,6 @@
 # Best Tea Masala - Secrets Revealed!
 
-Want to make your tea gatherings more exiciting. With a stimulating cup of Masala tea, the conversations will flow, ideas will be exchanged and conviability at a high.
+Want to make your tea gatherings more exiciting. With a stimulating cup of Masala tea, the conversations will flow, ideas will be exchanged and convivality at a high.
 
 ## Here is the secret:
 
