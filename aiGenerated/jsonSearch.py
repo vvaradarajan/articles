@@ -16,6 +16,19 @@ def find_path(node, filename):
     return None
 
 # Example usage:
+def factorial(N):
+    if N==1: return 1
+    else: return N*factorial(N-1)
+
+def factorialS(N,soFar,N1,soFar1):
+    soFar = N*soFar
+    if N==N1+1: return N*soFar1
+    else: return factorialS(N-1,soFar,N1,soFar1)
+# N=5
+# print(f'Factorial {N} using Normal recursion = {factorial(N)}')
+# print(f'Factorial {N} using side effect recursion = {factorialS(N,1,4,24)}')
+# exit(0)
+
 
 # Sample JSON directory tree
 directory_tree = {
@@ -43,7 +56,7 @@ directory_tree = {
 }
 
 # Find the path to 'file3.txt'
-file_name = 'file1.txt'
+file_name = 'file3.txt'
 path = find_path(directory_tree, file_name)
 
 if path:
