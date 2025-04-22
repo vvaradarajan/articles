@@ -43,3 +43,17 @@ css is a beast => custom-element styling from outside is :host does not work wit
 
 ### vscode annoyances:  
 opens wrong file with same name, due to history. Do 'clear editor history'  
+
+# Steps to Add an app to the 'articles' framework
+The articles framework allows you to create a webcomponent App. The webcomponent App javascript/typescript is in the client.
+
+client:
+ex: name='socialMedia'
+1. Create a folder with the $name and put the files cComponents.js, component.html,form.js (or a specific component/s for this app) and an index.html
+2. Modify all these files to suit.
+3. In tree.js add the import of 'import './${name}/cComponents.js'
+
+Server:
+1. create $name.py (copy chess.py) and add a route/routes for $name
+
+Notes: Don't forget to 'npx snowpack build' in the client folder
