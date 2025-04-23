@@ -1,0 +1,9 @@
+{
+    "mateIn2Easy": {
+        "title": "Go Chess"
+        ,"desc": "White to play and mate in 2 moves!"
+        ,"image": "https://chessnai.com/articles/spa/whatsapp/expert.jpeg"
+        ,"url": "https://chessnai.com/articles/spa/whatsapp/mateIn2Easy.html"
+        ,"redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy"
+    }
+}
