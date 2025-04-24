@@ -6,7 +6,7 @@ This uses OG headers:
 2. Whenever the image etc is updated, cache is a big issue in testing:  
 a. Post on your phone (that generally clears out the cache easily)  
 b. On linux: clear browser cache, then delete:  
-cd ~/.config/google-chrome./Default/IndexedDB  
+cd ~/.config/google-chrome/Default/IndexedDB  
 rm -rf /https_web.whatsapp.com_0.indexeddb.*  
 Login again into whatsapp, and then post the social media link.  
 

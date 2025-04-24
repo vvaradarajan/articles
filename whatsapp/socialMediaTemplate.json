@@ -6,9 +6,11 @@
     <meta property="og:description" content="{desc}" />
     <meta property="og:image" content="{imgUrl}" />
     <meta property="og:url" content="{url}" />
-    <meta http-equiv="refresh" content="0; url={redirectUrl}" />
+    <!-- <meta http-equiv="refresh" content="0; url={redirectUrl}" /> -->
 </head>
 <body>
-buldiga
+    <script>
+    window.location.replace("{redirectUrl}");
+    </script>
 </body>
 </html>
