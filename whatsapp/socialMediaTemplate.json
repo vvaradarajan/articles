@@ -9,8 +9,9 @@
     <!-- <meta http-equiv="refresh" content="0; url={redirectUrl}" /> -->
 </head>
 <body>
-    <script>
+    <!-- <script>
     window.location.replace("{redirectUrl}");
     </script>
+    -->
 </body>
 </html>
