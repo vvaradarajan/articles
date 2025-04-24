@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
-<!--This page is https://chessnai.com/articles/spa/whatsapp/${name}.html-->
+<!--This page is {socialMediaLink}-->
 <head>
     <meta property="og:title" content="{title}" />
     <meta property="og:description" content="{desc}" />
     <meta property="og:image" content="{imgUrl}" />
-    <meta property="og:url" content="{redirectUrl}" />
+    <meta property="og:url" content="{socialMediaLink}" />
     <!-- <meta http-equiv="refresh" content="0; url={redirectUrl}" /> -->
 </head>
 <body>

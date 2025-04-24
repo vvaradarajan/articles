@@ -10,6 +10,9 @@ cd ~/.config/google-chrome/Default/IndexedDB
 rm -rf /https_web.whatsapp.com_0.indexeddb.*  
 Login again into whatsapp, and then post the social media link.  
 
+2. Debug using 'Sharing debuge' site from facebook. Each time you make a change, be sure o click on 'scrape again' - small text button
+3. Use the Url to be the same as the website => Do the redirection in the body
+
 ## Lessons Learnt
 
 Lessons:  
