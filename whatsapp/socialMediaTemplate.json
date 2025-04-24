@@ -5,7 +5,7 @@
     <meta property="og:title" content="{title}" />
     <meta property="og:description" content="{desc}" />
     <meta property="og:image" content="{imgUrl}" />
-    <meta property="og:url" content="{socialMediaLink}" />
+    <meta property="og:url" content="{redirectUrl}" />
     <!-- <meta http-equiv="refresh" content="0; url={redirectUrl}" /> -->
 </head>
 <body>
