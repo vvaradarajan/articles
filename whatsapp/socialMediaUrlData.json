@@ -1,10 +1,37 @@
 {
     "mateIn2Easy": {
-        "title": "Go Chess"
-        ,"desc": "White to play and mate in 2 moves!"
-        ,"imgUrl": "https://chessnai.com/articles/spa/whatsapp/expert.jpeg"
-        ,"redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy"
-        ,"url":"https://chessnai.com/articles/socialMedia/goto/mateIn2Easy"
-        ,"socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/mateIn2Easy"
+        "title": "Go Chess",
+        "desc": "White to play and mate in 2 moves!",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/expert.png",
+        "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/mateIn2Easy"
+    },
+    "default": {
+        "title": "title",
+        "desc": "description",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/diyWeb2.jpeg",
+        "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/default"
+    },
+    "skel": {
+        "title": "My awesome opinion",
+        "desc": "how to do it",
+        "image": "https://chessnai.com/articles/spa/whatsapp/diySaved.png",
+        "url": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/skel"
+    },
+    "skely": {
+        "title": "title",
+        "desc": "description",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/bp.png",
+        "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/skely"
+    },
+    "skelly": {
+        "title": "title",
+        "desc": "description",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/diyWeb2.jpeg",
+        "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/skelly"
     }
 }
