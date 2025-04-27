@@ -9,14 +9,14 @@
     "default": {
         "title": "title",
         "desc": "description",
-        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/diyWeb2.jpeg",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/diyWeb5.jpeg",
         "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
         "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/default"
     },
     "skel": {
         "title": "My awesome opinion",
         "desc": "how to do it",
-        "image": "https://chessnai.com/articles/spa/whatsapp/diySaved.png",
+        "imgUrlsud": "https://chessnai.com/articles/spa/whatsapp/diySaved.png",
         "url": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
         "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/skel"
     },
@@ -30,8 +30,15 @@
     "skelly": {
         "title": "title",
         "desc": "description",
-        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/diyWeb2.jpeg",
-        "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/diyTop.png",
+        "redirectUrl": "http://localhost/articles/?path=Algorithms,socialMedia.md",
         "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/skelly"
+    },
+    "skelly1": {
+        "title": "title",
+        "desc": "description",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/diyTop.png",
+        "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/skelly1"
     }
 }

@@ -47,6 +47,12 @@ css is a beast => custom-element styling from outside is :host does not work wit
 ### vscode annoyances:  
 opens wrong file with same name, due to history. Do 'clear editor history'  
 
+### Certificate expiration
+If browser says that site is not secure and crosses out the 'https' it means that the SSL certificate has expired. Use an online tool 'trackssl' (https://app.trackssl.com/..) and it will show the reason. Since we use letsencrypt, issue the command on the server 'sudo certbot renew' and it should renew. You may have to stop nginx to free up port 80
+
+### Social Media posting annoyances:
+Generally og headers are painful, and use the 'sharing debugger from Meta' to debug these ('https://developers.facebook.com/tools/debug/)
+
 # Steps to Add an app to the 'articles' framework
 The articles framework allows you to create a webcomponent App. The webcomponent App javascript/typescript is in the client.
 
