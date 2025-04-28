@@ -4,6 +4,8 @@ Want to make your tea gatherings more exiciting. With a stimulating cup of Masal
 
 ## Here is the secret:
 
+<img src="img/teaMasala.png">  
+
 ### Ingredients:
 Cardamon : 2 tbl spoons 
 
