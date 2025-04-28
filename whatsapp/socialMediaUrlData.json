@@ -40,5 +40,12 @@
         "imgUrl": "https://chessnai.com/articles/spa/whatsapp/diyTop.png",
         "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
         "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/skelly1"
+    },
+    "skelly2": {
+        "title": "Todays Challenge",
+        "desc": "Mate in 2 moves. White to start",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/junk.png",
+        "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/skelly2"
     }
 }
