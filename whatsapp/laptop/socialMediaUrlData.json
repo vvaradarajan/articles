@@ -47,5 +47,12 @@
         "imgUrl": "https://chessnai.com/articles/spa/whatsapp/junk.png",
         "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
         "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/skelly2"
+    },
+    "sully": {
+        "title": "title",
+        "desc": "description",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/passport.jpeg",
+        "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/sully"
     }
 }

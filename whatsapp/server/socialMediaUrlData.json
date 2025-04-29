@@ -1,0 +1,93 @@
+{
+    "mateIn2Easy": {
+        "title": "Go Chess",
+        "desc": "White to play and mate in 2 moves!",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/expert.png",
+        "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/mateIn2Easy"
+    },
+    "default": {
+        "title": "title",
+        "desc": "description",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/diyWeb5.jpeg",
+        "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/default"
+    },
+    "skel": {
+        "title": "My awesome opinion",
+        "desc": "how to do it",
+        "imgUrlsud": "https://chessnai.com/articles/spa/whatsapp/diySaved.png",
+        "url": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/skel"
+    },
+    "skely": {
+        "title": "title",
+        "desc": "description",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/bp.png",
+        "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/skely"
+    },
+    "skelly": {
+        "title": "title",
+        "desc": "description",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/diyTop.png",
+        "redirectUrl": "http://localhost/articles/?path=Algorithms,socialMedia.md",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/skelly"
+    },
+    "skelly1": {
+        "title": "title",
+        "desc": "description",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/diyTop.png",
+        "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/skelly1"
+    },
+    "skelly3": {
+        "title": "title",
+        "desc": "description",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/13DayInvite.jpeg",
+        "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,chess.md&detail=mateIn2Easy",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/skelly3"
+    },
+    "LinksInSocialMedia": {
+        "title": "Social Media",
+        "desc": "Putting a link with image into Whatsapp",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/junk1.jpeg",
+        "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,socialMedia.md",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/LinksInSocialMedia"
+    },
+    "InductionSupreme": {
+        "title": "Programmable Induction",
+        "desc": "Induction cookop that prompts for ingredients at specific times and cooks to perfection",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/junk3.png",
+        "redirectUrl": "https://www.reddit.com/r/inductioncooking/comments/1dxg5ij/diy_programmable_induction_heater_stove/",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/InductionSupreme"
+    },
+    "spo2": {
+        "title": "Tens to improve sleep",
+        "desc": "A device stimulates throat to keep it open allowing good breathing in sleep",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/spo2.png",
+        "redirectUrl": "https://chessnai.com/articles/?path=Algorithms,spo2.md",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/spo2"
+    },
+    "Tea Masala": {
+        "title": "True Indian Tea",
+        "desc": "A great recipe to energize your cup, the great Indian way!",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/teaMasala.png",
+        "redirectUrl": "https://chessnai.com/articles/?path=Cooking,TeaMasala.md",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/Tea Masala"
+    },
+    "TeaMasala": {
+        "title": "True Indian Tea",
+        "desc": "A great recipe to energize your cup, the great Indian way!",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/teaMasala.png",
+        "redirectUrl": "https://chessnai.com/articles/?path=Cooking,TeaMasala.md",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/TeaMasala"
+    },
+    "yogaInsurance": {
+        "title": "Insurance Billing for Yoga",
+        "desc": "Process of obtaining reimbursement for yoga therapy from Health Insurance",
+        "imgUrl": "https://chessnai.com/articles/spa/whatsapp/yogaInvoice.png",
+        "redirectUrl": "https://chessnai.com/articles/?path=Finance,yogaBillingInsurance.md",
+        "socialMediaLink": "https://chessnai.com/articles/socialMedia/goto/yogaInsurance"
+    }
+}
