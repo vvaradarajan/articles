@@ -13,6 +13,8 @@ Login again into whatsapp, and then post the social media link.
 2. Debug using 'Sharing debuge' site from facebook. Each time you make a change, be sure o click on 'scrape again' - small text button
 3. Use the Url to be the same as the website => Do the redirection in the body
 
+Deleting Whatsapp cache from chrome: three dots=>settings=>privacy and security=>site settings => Third Party Cookies (under content)
+=> 'see all site data and permissions' and search for Whatsapp..
 ## Lessons Learnt
 
 Lessons:  
