@@ -60,11 +60,20 @@ The articles framework allows you to create a webcomponent App. The webcomponent
 
 client:
 ex: name='socialMedia'
-1. Create a folder with the $name and put the files cComponents.js, component.html,form.js (or a specific component/s for this app) and an index.html
+1. Create a folder with the $name in the articleWeb/client and put the files cComponents.js, component.html,form.js (or a specific component/s for this app) and an index.html
 2. Modify all these files to suit.
 3. In tree.js add the import of 'import './${name}/cComponents.js'
 
 Server:
-1. create $name.py (copy chess.py) and add a route/routes for $name
+1. create $name.py (copy chess.py) and add a route/routes for $name. Also change the classname inside it.
+In main.py
+2. Add 'from ${name} import ${className - the $name with caps in first char usually}
+3. Instantiate an instance of the class near the end of main.py
+(ex: formGet=FormGen(app,G))
+
+articles:
+1. Create the file ${name}.md and indicate that it is an application:
+!application:client/${name}/component.html
+# blah ..blah!
 
 Notes: Don't forget to 'npx snowpack build' in the client folder
