@@ -17,7 +17,8 @@ Deleting Whatsapp cache from chrome: three dots=>settings=>privacy and security=
 => 'see all site data and permissions' and search for Whatsapp..
 ## Lessons Learnt
 
-Lessons:  
+## Lessons: 
+Javascript/Typescript/snowpack:
 0. Install the snowpack with the typescript extension and snowpack.config.js to use that extension for building  
 If you get ./parse/lib not found etc, remove 'npm uninstall @snowpack/plugin-typescript' and cross-spawn and typescript and reinstall only npm uninstall @snowpack/plugin-typescript. That installs cross=spawn and typescript with proper libraries. The same goes for lib-toast. For some reason these may get installed without the lib's and suitable node_modules inside lit-toast   
 
@@ -28,6 +29,10 @@ If you get ./parse/lib not found etc, remove 'npm uninstall @snowpack/plugin-typ
 3. Sometimes the client (eg: chess) wants its own 'img' to be served. However this request to img goes to 'spa/img' and not to 'spa/chess/img' which is what is needed.  The new design is to have this as an option.  
 
 ## Annoyances:  
+
+### Yaml
+1. In yaml if a string contains ': ' it becomes a variable. So use ';' without a space after, in a string
+
 ### chrome setting 'Navigate ..' has to be off , otherwise a blinking cursor pops up when clicking on a unicode piecelsnp  
 
 ### Javascript annoyances:  
