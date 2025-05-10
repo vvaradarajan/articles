@@ -67,7 +67,8 @@ client:
 ex: name='socialMedia'
 1. Create a folder with the $name in the articleWeb/client and put the files cComponents.js, component.html,form.js (or a specific component/s for this app) and an index.html
 2. Modify all these files to suit.
-3. In tree.js add the import of 'import './${name}/cComponents.js'
+3. Note the component.html => it has a reference to the cComponents which will ensure that the App specific components are loaded dynamically. 
+All javascript for a new component is withing the client/$name folder.
 
 Server:
 1. create $name.py (copy chess.py) and add a route/routes for $name. Also change the classname inside it.
