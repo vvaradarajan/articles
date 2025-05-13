@@ -5,5 +5,5 @@
 !def_detail: mateIn2Easy
 # section that goes into the html page (using the components defined in the previous line)
 <menu-element>
-<chess-game serverUrlPrefix="${serverUrlPrefix}/chess" detail="${detail}"></chess-game>
+<chess-game serverUrlPrefix="${serverUrlPrefix}/chess" ${attribs}></chess-game>
 </menu-element>
