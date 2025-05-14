@@ -1,7 +1,7 @@
-# Contents
-## Three Bucket vs One Bucket approach to Money Management
-## Programmable Induction Cook top.
-## AI for day to day use with family information
+# Projects
+### Three Bucket vs One Bucket approach to Money Management
+### Programmable Induction Cook top.
+### AI for day to day use with family information
 
 <img src="img/projects.png">
 
