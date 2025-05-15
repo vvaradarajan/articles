@@ -38,3 +38,18 @@ Develop and implement a web based/app based application that Simulates both appr
 3. Average return on Savings Acct: 0.4 to 4
 Tools available: Existing webApp code,  boldin.com has tools..
 
+### Programmable Induction Cook top.
+#### Overview
+
+Induction currently have two very configurable parameters, the power transmitted via induction to the vessel, and time duration before turning off. This is very convenient for calculation of power consumed and allows precise timings for simple cooking operations such as boiling water.  
+
+These two features alone make the induction stove a very convenient, safe, power efficient and most of all minimising the amount of attention required of the cook. The 'cook' can move on to other roles (writing, programming, watching TV..) knowing that the induction stove will complete and turn off after the food is cooked and just sitting there waiting to be consumed!  
+The opportunity is to augment these features for more complex cooking scenarios. An example would making soup, with a recipe of heat to boil in 5 mins, and let it simmer or 10 mins.  To implement this we need a 'programmable sequence'. This sequence will allow following a series of power and duration pairs. In the soup scenario the sequence would be [(p,5),(p1,10)]. Here the first term (p,5) will bring the soup to a boil, and the second (p1,10) will keep it simmering. The powers p and p1 depend on the amount of soup. These have to be 'guesstimated' by the cook, or by some formula based on the vessel and the quantity of soup, which could hueristically calculated by the weight.  Since the feature of 'weighing' is not available on current cookware, this project will focus only on phase 1.  
+
+#### Hardware
+Using a Raspberry pie or similar computer, we need an interface API to manipulate the touch controls on an induction cooktop. The current thought is to open the induction cooktop panel, determine the mechanism of the touch switches. Following this the point of connection between the Raspberry pie and the induction cooktop is selected. The computer than should be able to manipulate the switches and control the cooktop.
+
+#### Software
+Programming the sequence of manipulating the switches. This is the first part. The further parts that would be included in this project are:  
+1. Safety turn off when conditions are not met.  
+2. Determine sequences for three common cooking tasks: boiling water, cooking soup, cooking  Rajma curry.
