@@ -83,3 +83,7 @@ articles:
 # blah ..blah!
 
 Notes: Don't forget to 'npx snowpack build' in the client folder
+
+Miscellaneous:
+1. To find some python function somewhere:
+find . -name **.py -exec grep -H 'pnp(' {} \; #finds all python files with 'pnp('
