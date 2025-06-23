@@ -24,3 +24,5 @@ In addition there the timing of withdrawal allows another variable - the value o
 
 ## Other discussions:
 How to type equations? LaTex, the academic standard is not easy. An easier one is LyX which has a workable visual interface, and if needed you can copy the equation as a pdf/image (which is used here) or as LaTex. So since math is getting prominence in retirement ("In this world nothing can be said to be certain, except math and taxes!") it will be a good idea to discuss LyX
+
+<down-load fileNm="retirement/lateEarly/lateEarly.xlsx" label="lateEarly.xlsx"></down-load>
