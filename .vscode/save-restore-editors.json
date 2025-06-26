@@ -1,0 +1,29 @@
+{
+  "tabs": [
+    {
+      "name": "ret1",
+      "tabGroups": [
+        {
+          "files": [
+            "file:///home/vv/git/articleWeb/server/retirementPkg/monteCarlo.py",
+            "file:///home/vv/git/articleWeb/server/retirement.py",
+            "file:///home/vv/git/articleWeb/server/configs/config.yml",
+            "file:///home/vv/git/articleWeb/server/retirementPkg/scenario.py",
+            "file:///home/vv/git/articleWeb/server/retirementPkg/retXl.py",
+            "file:///home/vv/git/articleWeb/server/retirementPkg/retFlow.py",
+            "file:///home/vv/git/articleWeb/server/retirementPkg/toXL.py"
+          ],
+          "viewColumn": 1
+        }
+      ],
+      "layout": {
+        "orientation": 0,
+        "groups": [
+          {
+            "size": 1540
+          }
+        ]
+      }
+    }
+  ]
+}
