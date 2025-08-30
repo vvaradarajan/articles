@@ -14,7 +14,7 @@ The western medical approach is to ignore the mind-body connection, and focus pr
 
 Yoga, meanwhile emphasizes the mind-body connection, and uses a symbiotic approach with the concious mind being a big part of the cure. Yoga practices enhance the pathways by which the body communicates to 'sympathetic' or concious mind, which in turn will either find a solution on its own, by altering behaviours, or assist the parasympathetic control system to function properly to find a solution or eliminate the problem.
 
-This writeup can go on and on in many directions:
-a. by examining cases of how Yoga helps with particular chronic cases.
-b. The connection between Yoga poses and specific systems within the Parasympathetic.
+This writeup can go on and on in many directions:  
+a. by examining cases of how Yoga helps with particular chronic cases.  
+b. The connection between Yoga poses and specific systems within the Parasympathetic.  
 c. .. 
