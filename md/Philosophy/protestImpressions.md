@@ -14,6 +14,9 @@ Was this protest of any use? The answer is yes, due to the large number of peopl
 
 Another reason to supporting the protest is the growing number of Trump Voters regretting their choice. Most of them express the opinion that the "Country is going in the wrong direction". This segment will be energized by the protests and most likely to cast the deciding vote in 2026. The Senate is 53-46 republican and the congress (house of representatives) is 220-214 republican.  Seats up for election in 2026: Senate-33, Congress- all 435. The size of these protests is proportional to the democratic momentum going into 2026.
 
+Another small reason was the presence of a law oriented group assisting ICE detainees. They have a petition going to have remote court appearnces allowed for immigration related issues, which will prevent ICE apphrensions on Court-house steps. The petition is 
+<a href="https://www.change.org/p/stop-ice-arrests-at-the-courts?recruiter=1377146650&recruited_by_id=df98ebc0-5106-11f0-9656-8574c2962b8b&utm_source=share_petition&utm_campaign=starter_onboarding_share_social&utm_medium=copylink">here</a>
+
 
 
 
