@@ -1,5 +1,36 @@
 # Philosophy of health via Yoga: 
 
+<div class="container">
+  <div class="floated-div">
+    This div floats to the left.
+  </div>
+  <p>
+    This is some text that will wrap around the floated div. 
+    You can add more content here to demonstrate the wrapping effect.
+    The text will flow naturally to the right of the floated element.
+  </p>
+</div>
+styles..
+.container {
+  width: 100%; /* Or a specific width for your layout */
+  overflow: hidden; /* To contain the floats */
+}
+
+.floated-div {
+  float: left;
+  width: 200px; /* Set a width for your floated div */
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-right: 15px; /* Add some space between the div and the text */
+  background-color: #f0f0f0;
+}
+
+p {
+  line-height: 1.5; /* Improve readability of the wrapped text */
+}
+
+<img src="/home/vv/git/articles/img/yoga/YogaMindBody.png"/>
+
 As humans (evolved animals) homeostasis (stable internal environment) is required for life. However the external environment can vary and various adaptations to keep the internal environment stable evolved. Essentially  we have control systems (sweat, shiver,nutrient flow ..) to keep the internal environment within parameters of surivival. It is in these internal control systems where the complexity and beauty of the engineering is amazing. The logic of these control systems requires extraordinary computational and communication capabilities and that is where the Mind comes in. This writeup skims all the complexities involved and focuses on the main message: The mind body connection.
 
 Specifically in food consumption. If something tastes good it is good for our body but eating a lot, makes it bad. The body’s control systems (GLP-1, ..) takes care of it by making us feel full etc.  In addition to this internal control system, there is/was an external system in years past, which worked as follows. Food was scarce, and it took effort to obtain. That difficulty of obtaining food was balanced with satisifaction that same food gave the body. That balance occurred at much lower consumption levels than today. Currently, for the most part very little effort is required in  obtaining food, and therefore the this external control system has become insignificant. The internal control system has to carry the entire load.
