@@ -72,6 +72,7 @@ While you indicate " Checkmate is not seeking privileged materials" the overbroa
 I reiterate that my availability as above. I have family obligations and health constraints, and will be available only in November as indicated above, and any deposition must only be remote and time limited and pertaining only in reference to the business transaction as outlined in the case. My health matters and family obligations are priveleged information. Also I note that November is highly reasonable and well within the schedule of the case.
 
 Sincerely,
+800-554-6161
 =========================================
 Dear Counsel,
 I indicated 'Mid November' with the conventional meaning of after the beginning of the 2nd week of November, at any suitable time. If you wish we can fix it at Nov 14, 2025, 10:00 AM Friday. Also note that you had requested a suitable time and this is suitable for me. I have not missed any mutually agreed meeting date or time, because there has not been any so far. Therefore your accusatory 'put off any obligations' comment is unwarranted. I have responded to the subpeona and corresponded with my concerns in a timely manner.
@@ -149,5 +150,3 @@ Vasan Varadarajan
 46637506
 02/15/1986
 8LPJ988
-
-
