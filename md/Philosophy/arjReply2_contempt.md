@@ -90,11 +90,19 @@ Both these conditions are met here.
 
 #Concluding request: I humbly request the court to vacate the subpeona or impose the reasonable conditions on it that I have requested.
 
+# To Arjun
+The document you gave me covers most and the stuff it does not cover are:
 
+## Misrepresentations in “Statement of facts” by Checkmate counsel:
 
+3. Checkmate improperly supposes a role for me in Voicebite and insinuates improper words into my declarations:
+“witnessed the co-founders “negotiat[ing] and
+discuss[ing] every issue thorough and transparently” while the “VoiceBite team
+w[as] finalizing the merger with Checkmate.” into negotiations.”
 
+I was not a ‘witness’ to discussions on ‘every issue’ discussed by the Voicebite founders with checkmate. I had no role in Voicebite. My declaration clearly states that Arjun and Chris were at my house as my family and friend/guests. I only stated that I “observed” their seriousness and intensity is their discussions of their company Voicebite and the Checkmate negotiations while at my house and stated: “10. From observing, it was clear that Arjun, Christopher and Robert Nessler were equal partners in the negotiation and discussed every issue thoroughly and transparently.”
+I was never in any relevant meeting either with Voicebite or Checkmate on any issue relating to their negotiations. My role was that of a host along with Arjun’s mom to family and friends.
 
-
-
-
-
+# Counter to 'III. ARGUMENT'
+3. Checkmate's Argument states that "Merger Agreement and related documents – negotiations which Mr.
+Varadarajan claims to have been a witness". This statement should be considered false. My Declaration states that "10. From observing, it was clear that Arjun, Christopher and Robert Nessler were equal partners in the negotiation and discussed every issue thoroughly and transparently.". Arjun and Christopher were staying in my house, and I overheard parts of some conversations between Arjun, Christopher and Robert, and by the tone of these, made my observations. I never claimed to be a 'witness' to the Merger Agreement or related documents and was never part of these conversations.
