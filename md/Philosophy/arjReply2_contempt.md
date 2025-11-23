@@ -105,4 +105,15 @@ I was never in any relevant meeting either with Voicebite or Checkmate on any is
 
 # Counter to 'III. ARGUMENT'
 3. Checkmate's Argument states that "Merger Agreement and related documents – negotiations which Mr.
-Varadarajan claims to have been a witness". This statement should be considered false. My Declaration states that "10. From observing, it was clear that Arjun, Christopher and Robert Nessler were equal partners in the negotiation and discussed every issue thoroughly and transparently.". Arjun and Christopher were staying in my house, and I overheard parts of some conversations between Arjun, Christopher and Robert, and by the tone of these, made my observations. I never claimed to be a 'witness' to the Merger Agreement or related documents and was never part of these conversations.
+Varadarajan claims to have been a witness". This statement should be considered false. My Declaration states that "10. From observing, it was clear that Arjun, Christopher and Robert Nessler were equal partners in the negotiation and discussed every issue thoroughly and transparently.". Arjun and Christopher were staying in my house, and I overheard parts of some conversations between Arjun, Christopher and Robert, and by the tone of these, made my observations. I never claimed to be a 'witness' to the Merger Agreement or related documents and was never part of these conversations.\
+
+Notes on "[PROPOSED] ORDER GRANTING
+PLAINTIFF’S MOTION TO DETERMINE
+SUFFICIENCY OF RFA RESPONSES;
+COMPEL RULE 26(A)(1)(A)(III)
+DAMAGES COMPUTATIONS; AND FOR
+A PROTECTIVE ORDER PHASING OR
+SEQUENCING DISCOVERY"
+
+1. It does not say my name in the title.
+2. Is this ok to write-up an order for a Judge (though it makes the Judges job easier)
