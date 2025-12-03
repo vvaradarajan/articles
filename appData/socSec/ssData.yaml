@@ -1,7 +1,8 @@
-mir: 840 #have to start by 70*12 months
-rpMonPct: 0.5 #30% for 60 months (i.e. 30%/60)
+ba: 70 *12 #Max ss start age in months
+rpMon: 30 *0.01/60 #30% percent reduction each 60 montbs if taken early (< fr)
+mir: 8/12 # ss monthly increase rate (8% per year)
 leFemale: 89.48 #life expectancy female asian indian
 leMale: 85.1 #life expectancy female asian indian
 bd_mmddyyyy: '01/30/1959'
-ssfr: 2700
-sa: 1021
+ssfr: 2700 #monthly ss at full retirement (take from your SS statement)
+sex: F

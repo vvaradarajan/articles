@@ -2,8 +2,8 @@
 # form Generator application (generates form  from yaml file)!
 # Section components to be imported in client
 !componentJs: ./socSec/cComponents.js
-# section that defines variables to substitute into the html
-!def_detail: socSec
+# section that defines variables to substitute into the html using these as attribs to the component: !def_<attrib>: <attrValue>
+!def_detail: ssForm
 # section that goes into the initial html page (using the components defined in the previous line)
 <menu-element>
 <ss-form serverUrlPrefix="${serverUrlPrefix}/socSec" ${attribs}></ss-form>
