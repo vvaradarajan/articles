@@ -1,7 +1,7 @@
 # Dork Disc, Endcap, brake cable sleeve And Zen
 <img src="img/bikeZen/dork.png" /> 
 
-That dorky dork faded plastic disk between the wheel spokes and the chain sprockets, what does it do? A couple of things: prevents your chain from falling off the highest sproket on to your wheel hub, which can happen if the gear shifting to the lowest gear (highest sprocket) is not that great. That fall to your hub will jam your bike and worse..  
+That dorky dork faded plastic disk between the wheel spokes and the chain sprockets - pointed to with a knife.., what does it do? A couple of things: prevents your chain from falling off the highest sproket on to your wheel hub, which can happen if the gear shifting to the lowest gear (highest sprocket) is not that great. That fall to your hub will jam your bike and worse..  
 Another is to stop oil from the chain and sprockets to splatter on the disc brakes (not in this picture, but imagine the disc on the wheel hub behind the dork disc). Oil on the disc brake will not brake very well...
 
 # Endcaps
