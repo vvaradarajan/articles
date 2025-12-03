@@ -18,7 +18,7 @@ Here the end cap is to prevent dirt entering the hub.. And to act as a spacer be
 That brake cable sleeve that covers the brake cable.. Here is a picture:  
 <img src="img/bikeZen/brakeCable.png" />  
 What does it do ?  
-+ The sleeve is 'plugged' at its ends with endcaps that allow the cable inside to move and the sleeve maintains its length when the cable is moved by pressing the brakes. This transmits the cable movement to be transmitted almost 'fully' to the other end of the cable, which are the brake calipers, causing them to squeeze when pressing the brakes.  
++ The sleeve is 'plugged' at its ends with endcaps that allow the cable inside to move and the sleeve maintains its length when the cable is moved by pressing the brakes. This transmits the cable movement almost 'fully' to the other end of the cable, which are the brake calipers, causing them to squeeze when pressing the brakes.  
 + Super modern brake systems, do not have a brake sleeve, but just transmit a signal to the 'hydraulic - self contained brake calipers', which then uses its own battery and triggers the hydraulics to squeeze the calipers. Here the brake sleeve has to function as a conduit for that signal. Often the conduit is nothing but air!
 
 # Summary:  
