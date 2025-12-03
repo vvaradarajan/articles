@@ -19,7 +19,7 @@ That brake cable sleeve that covers the brake cable.. Here is a picture:
 <img src="img/bikeZen/brakeCable.png" />  
 What does it do ?  
 + The sleeve is 'plugged' at its ends with endcaps that allow the cable inside to move and the sleeve maintains its length when the cable is moved by pressing the brakes. This transmits the cable movement almost 'fully' to the other end of the cable, which are the brake calipers, causing them to squeeze when pressing the brakes.  
-+ Super modern brake systems, do not have a brake sleeve, but just transmit a signal to the 'hydraulic - self contained brake calipers', which then uses its own battery and triggers the hydraulics to squeeze the calipers. Here the brake sleeve has to function as a conduit for that signal. Often the conduit is nothing but air!
++ Super modern brake systems, do not have a brake sleeve, but just transmit a signal to the 'hydraulic - self contained brake calipers', which then uses its own battery and triggers the hydraulics to squeeze the calipers. Here the brake sleeve has to function as a conduit for that signal. Often the conduit is nothing but air! No cable cable snags!
 
 # Summary:  
 YT bikes knows! They know the detail of biking and the details that make a bike ride smooth, sturdy and last long with minimal maintenance. The dork keeps your disc brakes clear, and bike jams less. If you don't have the dork, you are a dork! Make sure your disc brakes are clean and your gear shifting smooth - maintain them more often.  
