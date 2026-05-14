@@ -15,3 +15,17 @@ Other Notes: Flattening of the Anterior Chamber (i.e. cornea is flatter in the i
 
 Om Shanti Om!
 
+# Cataract addendum (layman summary)
+While looking up information on eye injury also looked into cataract from a laymans point of view and very interesting info listed below:<br/>
+  
+<b>Normal Cataract</b> (Today): Remove the natural lens from the lens sac, and insert a new lens (called iol). Unlike the human lens which can stretch or compress using muscles around the sac, the normal iol's do not do that well. Iol's can be chosen for best focus (i.e. long distance > 20 ft, near distance ~ 25 cms or 10 inches). Glasses should be worn for vision outside iol range. There is a multifocal iol, which focuses both long and near at different parts of the eye, and the brain can combine the images. This causes some issues like halo's and are not normally used.  
+One thing to note is that the normal lens also does not stretch or compress well with age, and glasses must be used as you age. 
+
+<b>Today in Europe</b> (Lumina lens - Akkolens): This lens is placed in the 'sulcus' - a groove in front of the lens sac and is still able to be manipulated by the focusing muscles. Note that the clouded natural lens is removed from the lens sac, but the sac itself is left as is (verify this!). It has shown good results, more natural and less need for glasses to focus near and far.  Here is link: 
+<https://pubmed.ncbi.nlm.nih.gov/40197071/> 
+
+<b>Future Cataract</b> (Tommorrow < 5 years>): Many new lenses to make the eye as it was during the younger ages (no need for glasses) are also in the works. Here are some links:  
+[new lenses - youtube](https://www.google.com/search?q=discussion+on+upcoming+iol+lens&oq=discussion+on+upcoming+iol&gs_lcrp=EgZjaHJvbWUqBwgEECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigATIHCAYQIRiPAjIHCAcQIRiPAjIHCAgQIRiPAtIBCTEzOTMyajBqNKgCAbACAfEFG1Zgn4Js2nI&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:24471020,vid:Unnm0g9brsA,st:0)
+
+The purpose of this summary is for info only. Always google for the latest...
+
