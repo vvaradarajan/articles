@@ -13,6 +13,12 @@ Four weeks later (Apr 18 - event, today May 13) substantial healing has taken pl
 
 Other Notes: Flattening of the Anterior Chamber (i.e. cornea is flatter in the injured eye) was still observed. A concern was that the production and drainage of the Aqueous humor fluid could be affected. The flattening caused the 'angle' where the drainage occurs to be narrowed, making the draining the less efficient. If this persists, there is increased chances of Glaucoma (Aqueous humor accumulates and increases eye pressure). Luckily the opthalmologists (and especially Ms. Elise Ma) know their subject, and can quickly determine and treat issues if they are consulted!
 
+## Exploratory Surgery
+
+With internet information and looking at the impacted eye, figured out that the surgeons had used fiber optic light pipes to light up the inside of the eye. A microsope was then used to detect any leaks or structural issues. The light pipes were inserted into the sclera (white part) on either side of the cornea. The 'circular' spots in the pictures below show the penetration spots of the light pipes. The other pictures show the eye trauma.  
+
+<img src="img/eyeInjury/eyeSurgery.png"> 
+
 Om Shanti Om!
 
 # Cataract addendum (layman summary)
