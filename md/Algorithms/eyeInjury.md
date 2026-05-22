@@ -1,11 +1,11 @@
 # A remarkable discovery (due to eye injury!)
 This title rhymes! and is true as well. The eye injury resulted in 'double-vision' that increased with distance, when viewed through the injured eye. It was/is supposed to get better with time. Is it improving?, that was the question. The challenge is that you can never take a picture of the double vision. It is occuring inside the eye and only the retina can see the double-vision. This problem was alive in the brain, during a walk to CVS, and the thoughts turned suddenly to Ramanujan and his disoveries and Viola! A light turned on, and the answer was computer graphics!  Here is the solution in pictures: 
 
-<img src="img/eyeInjury/goodVision.png">  
+<img src="img/eyeInjury/goodVision.png">  <img src="img/eyeInjury/singleRajni.png">
 
 In double vision it looks like: 
 
-<img src="img/eyeInjury/doubleVision.png">  
+<img src="img/eyeInjury/doubleVision.png">   <img src="img/eyeInjury/doubleRajni.png">
 
 An image of a solid white circle and a convenient red line was created on the computer screen.  This was viewed with the injured eye from some distance and double vision was seen. The double of the good image is the good image shifted a little to the right and down and appears a little dimmer. To determine the double image which is only inside the eye, the trick employed was:  Go about 10 ft away, and look at image with the injured eye. Keep increasing the distance, until the sphere in the double vision appears to touch the red line in the good vision image. Now move a little closer, and notice that they do not touch and a gap appears between the line and the circle. When this happens, the double vision and the good vision are getting closer to each other. Eventually when the double vision problem is healed, the double vision merges exactly with the good vision, and there is only the good Vision!  
 Now to check progress on a day by day basis, watch this gap every day from a distance! Alternatively notice that as your eye improves, you have to move back a little more to make the circle and stick touch again.  
