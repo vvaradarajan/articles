@@ -6,7 +6,19 @@ Here is a device that records spo2 every 2 seconds and can be used for over 10 h
 
 You can use the viHealth app on your phone to view the results. For better viewing and analysis, you can download the data from the device to a desktop process it on a desktop.
 
-A recording of about 9 hrs was taken, resulting in some 15K samples. The viHealth app on the phone was used to export this data to the desktop.  Using the AI kit Claude, this data was analyzed through a python program and the following shows the chart produced:  
-<img src="img/spO2all.png"> 
+All who have been diagnosed/concerned with sleep apnea, should get this device (100-200$)  
 
-All who have been diagnosed/concerned with sleep apnea, should get this device (100-200$)
+## Analysis
+Appears that a cool clean body can give you a better sleep.
+
+### Day 1
+
+A recording of about 9 hrs was taken, resulting in some 15K samples. The viHealth app on the phone was used to export this data to the desktop.  Using the AI kit Claude, this data was analyzed through a python program and the following shows the chart produced:  
+<img src="img/spO2/day1/all.png"> 
+
+Feeling: Had a good sleep.
+
+### Day 2
+<img src="img/spO2/day2/all.png"> 
+Feeling: Had a bad sleep. Waking up 3-4 times. Bed/pillow felt hot. Should have taken a cool shower or rubdown before sleep.
+
