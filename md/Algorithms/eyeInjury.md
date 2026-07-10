@@ -51,3 +51,4 @@ One thing to note is that the normal lens also does not stretch or compress well
 
 The purpose of this summary is for info only. Always google for the latest...
 
+Lathar562@
