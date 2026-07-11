@@ -1,6 +1,7 @@
 # DIY overnight spO2 monitoring
 spO2 which indicates how well oxygen is available in your blood for use by all bodily organs, including the brain. The normal range is 100 to 95. Below 92 is concerning and below 88 is dangerous.
 Here is a device that records spo2 every 2 seconds and can be used for over 10 hrs:  
+APLPV3052R
 
 <img src="img/spO2CheckmeO2Max.png"> 
 
@@ -22,3 +23,6 @@ Feeling: Had a good sleep.
 <img src="img/spO2/day2/all.png"> 
 Feeling: Had a bad sleep. Waking up 3-4 times. Bed/pillow felt hot. Should have taken a cool shower or rubdown before sleep.
 
+### Day 3
+<img src="img/spO2/day3/all.png"> 
+Feeling: Had a bad sleep. Waking up 3-4 times. Bed/pillow felt hot. Tension (thoughts going thru the mind). Should meditate?
