@@ -20,9 +20,9 @@ A recording of about 9 hrs was taken, resulting in some 15K samples. The viHealt
 Feeling: Had a good sleep.
 
 ### Day 2
-<img src="img/spO2/day2/all.png"> 
+<img src="img/spO2/day2/all.png">  
 Feeling: Had a bad sleep. Waking up 3-4 times. Bed/pillow felt hot. Should have taken a cool shower or rubdown before sleep.
 
 ### Day 3
-<img src="img/spO2/day3/all.png"> 
+<img src="img/spO2/day3/all.png">  
 Feeling: Had a bad sleep. Waking up 3-4 times. Bed/pillow felt hot. Tension (thoughts going thru the mind). Should meditate?
