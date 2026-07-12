@@ -27,7 +27,7 @@ Feeling: Had a bad sleep. Waking up 3-4 times. Bed/pillow felt hot. Should have 
 <img src="img/spO2/day3/all.png">  
 Feeling: Had a bad sleep. Waking up 3-4 times. Bed/pillow felt hot. Tension (thoughts going thru the mind). Should meditate?
 
-### Day 4
+### Day 4: Different Person with No Sleep Apnea
 <img src="img/spO2/day4/all.png">  
 Different Person with No Sleep Apnea
 Feeling: Did not sleep well
