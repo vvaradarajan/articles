@@ -39,7 +39,8 @@ Mattress topper is cooling and comfortable
 Feeling: slept well  
 <img src="img/spO2/day5/all.png">  
 ---
-### Day 5: Score: 7.5, %good 95.14, %warn 4.86, %emer 0.07 :  On Bamboo topper bed
+
+### Day 6: Score: 7.5, %good 95.14, %warn 4.86, %emer 0.07 :  On Bamboo topper bed
 Mattress topper is cooling and comfortable
 Feeling: slept well, but got up once and didn't go back to sleep for 30 mins with all thoughts
 <img src="img/spO2/day6/all.png">  
@@ -54,4 +55,5 @@ Feeling: slept well, but got up once and didn't go back to sleep for 30 mins wit
 | 0710  | 84.39     | 15.61            | 3.06                  |
 | 0711  | 99.92     | 0.00             | 0.00                    |
 | 0712  | 97.70     | 2.30               | 0.05                    |
+| 0713  | 95.14     | 4.86               | 0.07                    |
   
