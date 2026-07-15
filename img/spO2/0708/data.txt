@@ -1,0 +1,2 @@
+07/08/2026 | Good (92): 99.37% | Below warn (92): 0.63% | Below emergency (88): 0.00%
+Average SpO2: 96.8
