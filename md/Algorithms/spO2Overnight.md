@@ -46,7 +46,8 @@ Feeling: slept well, but got up once and didn't go back to sleep for 30 mins wit
 <img src="img/spO2/0713/all.png">  
 ---
 ### Dt: 0714: Score: ????, %good 100.00, %warn 0.00, %emer 0.00: AR
-Feeling: Too short a recording. Must keep the probe throughout sleep  
+Feeling: Too short a recording. Must keep the probe throughout sleep.
+Note the heart rate -- this is too high! 
 <img src="img/spO2/0714/all.png">  
 
 ## Summary  
@@ -59,4 +60,5 @@ Feeling: Too short a recording. Must keep the probe throughout sleep
 | 0711  | 99.92     | 0.00             | 0.00                    |
 | 0712  | 97.70     | 2.30               | 0.05                    |
 | 0713  | 95.14     | 4.86               | 0.07                    |
+| 0714  | 100.00     | 0.00               | 0.00                    |
   
