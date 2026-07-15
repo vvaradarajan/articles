@@ -12,39 +12,42 @@ All who have been diagnosed/concerned with sleep apnea, should get this device (
 ## Analysis
 Appears that a cool clean body can give you a better sleep.
 
-### Day 1 Score: 8.8, %good 99.37, %warn 0.63, %emer 0.00
+### Dt: 0708 Score: 8.8, %good 99.37, %warn 0.63, %emer 0.00
 
 A recording of about 9 hrs was taken, resulting in some 15K samples. The viHealth app on the phone was used to export this data to the desktop.  Using the AI kit Claude, this data was analyzed through a python program and the following shows the chart produced.  
 Feeling: Had a good sleep.  
-<img src="img/spO2/day1/all.png"> 
+<img src="img/spO2/0708/all.png"> 
 ---
 
-### Day 2 Score: 7.6, %good 97.86, %warn 2.14, %emer 0.11
+### Dt: 0709 Score: 7.6, %good 97.86, %warn 2.14, %emer 0.11
 Feeling: Had a bad sleep. Waking up 3-4 times. Bed/pillow felt hot. Should have taken a cool shower or rubdown before sleep.
-<img src="img/spO2/day2/all.png">  
+<img src="img/spO2/0709/all.png">  
 ---
 
-### Day 3 Score: 3.6, %good 84.39, %warn 15.61.14, %emer 3.06
+### Dt: 0710 Score: 3.6, %good 84.39, %warn 15.61.14, %emer 3.06
 Feeling: Had a bad sleep. Waking up 3-4 times. Bed/pillow felt hot. Tension (thoughts going thru the mind). Should meditate?  
-<img src="img/spO2/day3/all.png">  
+<img src="img/spO2/0710/all.png">  
 ---
 
-### Day 4: Score: 9.9, %good 99.92, %warn 0.00, %emer 0.00 : Different Person with No Sleep Apnea
+### Dt: 0711 Score: 9.9, %good 99.92, %warn 0.00, %emer 0.00 : Different Person with No Sleep Apnea
 Feeling: Did not sleep well  
-<img src="img/spO2/day4/all.png">  
+<img src="img/spO2/0711/all.png">  
 ---
 
-### Day 5: Score: 7.9, %good 97.70, %warn 2.30, %emer 0.05 :  On Bamboo topper bed
+### Dt: 0712 Score: 7.9, %good 97.70, %warn 2.30, %emer 0.05 :  On Bamboo topper bed
 Mattress topper is cooling and comfortable
 Feeling: slept well  
-<img src="img/spO2/day5/all.png">  
+<img src="img/spO2/0712/all.png">  
 ---
 
-### Day 6: Score: 7.5, %good 95.14, %warn 4.86, %emer 0.07 :  On Bamboo topper bed
+### Dt: 0713: Score: 7.5, %good 95.14, %warn 4.86, %emer 0.07 :  On Bamboo topper bed
 Mattress topper is cooling and comfortable
 Feeling: slept well, but got up once and didn't go back to sleep for 30 mins with all thoughts
-<img src="img/spO2/day6/all.png">  
+<img src="img/spO2/0713/all.png">  
 ---
+### Dt: 0714: Score: ????, %good 100.00, %warn 0.00, %emer 0.00: AR
+Feeling: Too short a recording. Must keep the probe throughout sleep
+<img src="img/spO2/0714/all.png">  
 
 ## Summary  
 
