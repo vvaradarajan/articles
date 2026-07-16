@@ -14,13 +14,13 @@ Appears that a cool clean body can give you a better sleep.
 
 ---  
 ### Dt: 0715: Score: 5.9, %good 87.74, %warn 12.26, %emer 1.86: VV  
-Feeling: Vasan: Bed ok Cool, but did not take a cool shower before bed. Felt the oil/sweat on back. 
+Feeling: Vasan: Bed ok Cool, but did not take a cool shower before bed. Felt the oil/sweat on back.  
 <img src="img/spO2/0715/all.png">  
 
 ---
 ### Dt: 0714: Score: ????, %good 100.00, %warn 0.00, %emer 0.00: AR
 Feeling: Too short a recording. Must keep the probe throughout sleep.
-Note the heart rate -- this is too high! 
+Note the heart rate -- this is too high!  
 <img src="img/spO2/0714/all.png">  
 
 ---
