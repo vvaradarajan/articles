@@ -13,6 +13,10 @@ All who have been diagnosed/concerned with sleep apnea, should get this device (
 Appears that a cool clean body can give you a better sleep.
 
 ---  
+### Dt: 0716: Score: 7.2, %good 93.49, %warn 6.51, %emer 0.20: VV  
+Feeling: Vasan: Bed ok Cool, but did not take a cool shower before bed. Ate 3 hrs before.  
+<img src="img/spO2/0715/all.png">  
+---  
 ### Dt: 0715: Score: 5.9, %good 87.74, %warn 12.26, %emer 1.86: VV  
 Feeling: Vasan: Bed ok Cool, but did not take a cool shower before bed. Felt the oil/sweat on back.  
 <img src="img/spO2/0715/all.png">  
@@ -68,4 +72,6 @@ Feeling: Had a good sleep.
 | 0712  | 97.70     | 2.30               | 0.05                    |
 | 0713  | 95.14     | 4.86               | 0.07                    |
 | 0714  | 100.00     | 0.00               | 0.00                    |
+| 0715  | 94.50     | 12.26               | 1.86                    |
+| 0716  | 95,20     | 6.51               | 0.20                    |
   
