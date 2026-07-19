@@ -10,7 +10,11 @@ You can use the viHealth app on your phone to view the results. For better viewi
 All who have been diagnosed/concerned with sleep apnea, should get this device (100-200$)  
 
 ## Analysis
-Appears that a cool clean body can give you a better sleep.
+Appears that a cool clean body and eating about 3 hrs before bed can give you a better sleep.
+---  
+### Dt: 0717: Score: 7.7, %good 97.92, %warn 2.08, %emer 0.00: VV  
+Feeling: Vasan: Bed ok Cool, but did not take a cool shower before bed. Ate 3 hrs before. Had a deep sleep till 3:00 AM
+<img src="img/spO2/0717/all.png">  
 
 ---  
 ### Dt: 0716: Score: 7.2, %good 93.49, %warn 6.51, %emer 0.20: VV  
@@ -74,4 +78,5 @@ Feeling: Had a good sleep.
 | 0714  | 100.00     | 0.00               | 0.00                    |
 | 0715  | 94.50     | 12.26               | 1.86                    |
 | 0716  | 95,20     | 6.51               | 0.20                    |
+| 0717  | 97,92     | 2.08               | 0.00                    |
   
