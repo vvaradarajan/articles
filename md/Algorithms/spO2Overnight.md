@@ -11,7 +11,7 @@ All who have been diagnosed/concerned with sleep apnea, should get this device (
 ## Analysis
 Appears that a cool clean body and eating about 3 hrs before bed can give you a better sleep.
 ---  
-### Dt: 0717: Score: 9.7, %good 99.96, %warn 0.04, %emer 0.00: SM  
+### Dt: 0720: Score: 9.7, %good 99.96, %warn 0.04, %emer 0.00: SM  
 Feeling: SM: Looks like a good sleep from 9:30 tp 6:00  
 <img src="img/spO2/0720/all.png">  
 
