@@ -1,7 +1,6 @@
 # DIY overnight spO2 monitoring
 spO2 which indicates how well oxygen is available in your blood for use by all bodily organs, including the brain. The normal range is 100 to 95. Below 92 is concerning and below 88 is dangerous.
 Here is a device that records spo2 every 2 seconds and can be used for over 10 hrs:  
-APLPV3052R
 
 <img src="img/spO2CheckmeO2Max.png"> 
 
@@ -11,6 +10,11 @@ All who have been diagnosed/concerned with sleep apnea, should get this device (
 
 ## Analysis
 Appears that a cool clean body and eating about 3 hrs before bed can give you a better sleep.
+---  
+### Dt: 0717: Score: 9.7, %good 99.96, %warn 0.04, %emer 0.00: SM  
+Feeling: SM: Looks like a good sleep from 9:30 tp 6:00
+<img src="img/spO2/0720/all.png">  
+
 ---  
 ### Dt: 0717: Score: 7.7, %good 97.92, %warn 2.08, %emer 0.00: VV  
 Feeling: Vasan: Bed ok Cool, but did not take a cool shower before bed. Ate 3 hrs before. Had a deep sleep till 3:00 AM
