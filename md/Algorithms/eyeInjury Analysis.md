@@ -11,7 +11,7 @@ In this image the 'original' half moon (a photo taken). Along with that is the s
 The half moon 'original' is what was focused onto the retina by the lens in the eye. This is normal. This image is not blurred, indicating that the lens was properly stretched to bring the moon into focus. This means that a large portion of the lens is normal.
 The 'double' and distorted image is focused on the retina by a part of the lens that is not normal. This is produced by a part of the lens that is not normal and has been 'flattebed' out due to the impact injury. The distortion in the image is also due to this part of the lens having varying focal lengths. A flatter lens has a larger focal length. Threfore the focal point will be behind the retina causing the image on the retina to be larger (resulting in less brightness). A sketch of the analysis is shown below:  
 
-<img src="img/eyeInjury/opticalAnalysisSketch.png">  
+<img src="img/eyeInjury/opticalAnalysis.png">  
 
 ##Anatomical analysis
 
