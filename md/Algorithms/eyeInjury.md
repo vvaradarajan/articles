@@ -50,5 +50,3 @@ One thing to note is that the normal lens also does not stretch or compress well
 [new lenses - youtube](https://www.google.com/search?q=discussion+on+upcoming+iol+lens&oq=discussion+on+upcoming+iol&gs_lcrp=EgZjaHJvbWUqBwgEECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigATIHCAYQIRiPAjIHCAcQIRiPAjIHCAgQIRiPAtIBCTEzOTMyajBqNKgCAbACAfEFG1Zgn4Js2nI&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:24471020,vid:Unnm0g9brsA,st:0)
 
 The purpose of this summary is for info only. Always google for the latest...
-
-Lathar562@
