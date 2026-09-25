@@ -6,19 +6,19 @@ I got my sleep score from about 7.3 to 8.1 and can feel the difference.
 
 The latest significant improvement was using the 'tongue sucker' which is:
 
-![Tongue sucker](../img/saFindings/tongue-sucker.png)
+![Tongue sucker](img/saFindings/tongue-sucker.png)
 
 I had this tongue sucker for years and have used it before, but did not realize the improvement and stopped using it. Now with the wrist sleep/spO2 recorder, I can see it really improves sleep.
 
 My motivation came after speaking with Kartik on how the tongue relaxes and falls back into the mouth and shuts off or narrows the air passage way in the back of the throat, causing no breathing and sleep apnea. Further using the spO2 monitor I noticed that my spO2 was dropping during phases of sleep and internet research indicated this was during the REM phase (dreaming) when the most relaxation takes place. The brain purposefully relaxes all muscles to stop any physical action during dreams! Here is my typical spO2 during sleep (**without tongue sucker**):
 
-![spO2 without tongue sucker](../img/saFindings/spo2-without-tongue-sucker.png)
+![spO2 without tongue sucker](img/saFindings/spo2-without-tongue-sucker.png)
 
 Here is one **with the tongue sucker**:
 
 Notice there are much less spO2 downturns. This does not mean REM sleep is absent, rather the tongue was held away from back of the throat, leaving a passage for air and thus enabled breathing during that time. Also note the average pulse rate is significantly lower at 59, indicating that the heart is not in a panic beat mode. The one place where the spO2 fell, notice the rise in the heart rate.
 
-![spO2 with tongue sucker](../img/saFindings/spo2-with-tongue-sucker.png)
+![spO2 with tongue sucker](img/saFindings/spo2-with-tongue-sucker.png)
 
 **Other conditions that disturb sleep that I noticed:**
 
@@ -44,7 +44,7 @@ Notice there are much less spO2 downturns. This does not mean REM sleep is absen
 
 My Target: Keep sleep score over 8.0 and try out the mandibular mouthpiece (Some Reddit users claim that is more comfortable than the Tongue Sucker). And then keep you appraised of the results. For reference here is my sleep score display in the spO2 meter App:
 
-![Sleep score app](../img/saFindings/sleep-score-app.png)
+![Sleep score app](img/saFindings/sleep-score-app.png)
 
 ## Sleep Apnea : "Arise, awake, and stop not till you sleep well"
 
@@ -52,7 +52,7 @@ Lord Ganesha, the remover of obstacles, on this day of Ganesh Chaturthi, removed
 
 My sleep score reached the 9's! 9.3 and 9.8! The mouthpiece that keeps the lower jaw slightly advanced did it! Here is chart of how progress was made:
 
-![Progress chart with mouthpiece](../img/saFindings/progress-chart-mouthpiece.png)
+![Progress chart with mouthpiece](img/saFindings/progress-chart-mouthpiece.png)
 
 While this chart shows a gentle improvement toward the last action 'Mouthpiece', the rise in the positive feeling of having a good sleep is huge. If the mouth piece score of 9.3-9.8 can be maintained that becomes a game changer in the quality of life.
 
@@ -60,7 +60,7 @@ In the chart the actions are cumulative, except in the last two where the Tongue
 
 Latest Charts of the Mouth Piece data:
 
-![Mouthpiece data charts](../img/saFindings/mouthpiece-data-charts.png)
+![Mouthpiece data charts](img/saFindings/mouthpiece-data-charts.png)
 
 Sleep Apnea Gone! Rest Not till the next Challenge!
 
@@ -70,7 +70,7 @@ This is the 3rd episode of GOOD sleep. Waking up rested and refreshed and alread
 
 Here is the mouthpiece picture:
 
-![Mouthpiece picture](../img/saFindings/mouthpiece-picture.png)
+![Mouthpiece picture](img/saFindings/mouthpiece-picture.png)
 
 ## Other Notes:
 
