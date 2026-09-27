@@ -42,9 +42,9 @@ The other findings are ignored in this analysis:
 
 2. Phakic with opacities within the crystalline lens (possible increase in cataract formation due to trauma?)
 
-![Normal fluid outflow - Figure 3a](../img/ultrasoundEyeScan/normal-fluid-flow.png)
+![Normal fluid outflow - Figure 3a](img/ultrasoundEyeScan/normal-fluid-flow.png)
 
-![Anterior iris bowing - shallow angles and possible rubbing on lens](../img/ultrasoundEyeScan/anterior-iris-bowing.png)
+![Anterior iris bowing - shallow angles and possible rubbing on lens](img/ultrasoundEyeScan/anterior-iris-bowing.png)
 
 The Figure above shows iris bowing
 
@@ -58,7 +58,7 @@ Since the eye pressure is normal, there may not be any treatment recommended.
 
 However double vision symptoms, in one direction, blurry vision remain. When looking at a bright LED light in dim ambient light (evening) Halos are observed with a skewed shape. The shape of the halos are shown below (seen from a distance of 7.5 ft):
 
-![Normal photo of LED](../img/ultrasoundEyeScan/halo-normal-photo.png) ![With halo drawn in](../img/ultrasoundEyeScan/halo-drawn-in.png)
+![Normal photo of LED](img/ultrasoundEyeScan/halo-normal-photo.png) ![With halo drawn in](img/ultrasoundEyeScan/halo-drawn-in.png)
 
 Normal Photo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With Halo Drawn in
 
