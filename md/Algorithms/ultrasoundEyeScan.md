@@ -60,7 +60,6 @@ However double vision symptoms, in one direction, blurry vision remain. When loo
 
 ![Normal photo of LED](img/ultrasoundEyeScan/halo-normal-photo.png) ![With halo drawn in](img/ultrasoundEyeScan/halo-drawn-in.png)
 
-Normal Photo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With Halo Drawn in
 
 The Halo picture is with the Right eye (injured) only. The halo effect is predominantly to the top-left quadrant. In a normal cataract the halos may be spread all around? This looks like a portion of the lens/ciliary/iris at some angle is structurally damaged?
 
