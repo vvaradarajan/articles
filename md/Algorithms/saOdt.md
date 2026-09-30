@@ -78,9 +78,15 @@ Here is the mouthpiece picture:
 2. The overall spO2 score was lower though I felt I had a good sleep. The spO2 drops occurred early in the night probably indicating some disturbances early in the night, which subsided. The recording for the last 4 hrs of sleep showed a score of 9.8 indicating excellent spO2.
 3. I have to find a sound recorder that can gather sounds when asleep to detect any snoring.
 
-### Sleep Apnea: A finding..
+### Sleep Apnea: Curious findings..  
+<u>Dream on..</u>
+After 'getting rid of sleep apnea, my sleep time reduced by an hour, and sleep was good. This was for the first week or so. Later dreams started intruding and sleep time lengthened to accommodate the dreams!
+Searching the internet, the logic was a 'REM' rebound (i.e. dreams making a comeback). Recall that in REM the body is compeletely relaxed. In sleep apnea, this causes the tongue/throat to relax, block air passage and that triggers the body to wake-up, preventing dreams. So when sleep apnea is eliminated, dreams make a comeback! Not exactly sure why the delay in them coming back and speculate that it took time for the brain to realize that dreaming is possible..
+spO2 Good for energy levels
 
-spO2 is good..your energy level is good on waking up even if you do not feel refreshed etc. This is a surprising finding..
+<u>spO2 is good..</u>
+
+your energy level is good on waking up even if you do not feel refreshed etc. This is a surprising finding..
 
 Last night I had not followed many guidelines such as eat early well before bedtime (ate late), take a cool shower - did that and resulted in congestion in left nostril, be calm and relaxed - had played tennis till late and thinking a lot - not really relaxed. Woke up a couple of times due to congested nose. Therefore was not feeling rested or refreshed on waking up.
 
