@@ -80,8 +80,8 @@ Here is the mouthpiece picture:
 
 ### Sleep Apnea: Curious findings..  
 <u>Dream on..</u>
-After 'getting rid of sleep apnea, my sleep time reduced by an hour, and sleep was good. This was for the first week or so. Later dreams started intruding and sleep time lengthened to accommodate the dreams!
-Searching the internet, the logic was a 'REM' rebound (i.e. dreams making a comeback). Recall that in REM the body is compeletely relaxed. In sleep apnea, this causes the tongue/throat to relax, block air passage and that triggers the body to wake-up, preventing dreams. So when sleep apnea is eliminated, dreams make a comeback! Not exactly sure why the delay in them coming back and speculate that it took time for the brain to realize that dreaming is possible..
+After 'getting rid of' sleep apnea, my sleep time reduced by an hour, and sleep was good. This was for the first week or so. Later dreams started intruding and sleep time lengthened to accommodate the dreams!
+Searching the internet, the logic was a 'REM' rebound (i.e. dreams making a comeback). Recall that in REM the body is completely relaxed. In sleep apnea, this causes the tongue/throat to relax, block air passage and that triggers the body to wake-up, preventing dreams. So when sleep apnea is eliminated, dreams make a comeback! Not exactly sure why the delay in them coming back and speculate that it took time for the brain to realize that dreaming is possible..
 spO2 Good for energy levels
 
 <u>spO2 is good..</u>
