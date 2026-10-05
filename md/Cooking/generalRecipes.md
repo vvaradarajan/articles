@@ -1,12 +1,28 @@
 # Intro
-What you need is Induction stovetop (one), Anjana potti (should be stocked with Turmeric, chilli power, mustard, jeera and any other masala's), Insta pot, microwave and Air-fryer. You are all set.
+What you need is Induction stovetop (one), Oil-spray bottle, Anjana potti (should be stocked with Turmeric, chilli power, mustard, jeera and any other masala's), Insta pot, microwave and Air-fryer, ceramic cookware.. You are all set.
+# Sunny side up
+
+<b>Difficulty:</b>  Easy
+
+<b>Ingredients:</b> two eggs
+
+<div style="display: flex; gap: 1em; align-items: flex-start;">
+<div style="flex: 1;">Put ceramic pan on induction - medium (800W). Spray pan with oil (optional). Break eggs on edge of pan and pour into pan. Note the yellow round yolk.  Set the timer for 3 mins and relax. After 3 mins slide the contents to a plate and enjoy!</div>
+<img src="img/cooking/sunnySideUp.png" alt="Sunny side up eggs" style="width: 40%; max-width: 300px; height: auto;">
+</div>
+
+<b>Time to Eating:</b> 30 mins
+
 # Rice
 
 <b>Difficulty:</b>  Easy
 
 <b>Ingredients:</b> dry rice, water
 
-1:2.5 ratio of dry rice to water into the instapot, press rice and it will get cooked in about 10-15 mins. Let it stand for 20 mins. 
+<div style="display: flex; gap: 1em; align-items: flex-start;">
+<div style="flex: 1;">1:2.5 ratio of dry rice to water into the instapot, press rice and it will get cooked in about 10-15 mins. Let it stand for 20 mins.</div>
+<img src="img/cooking/rice.png" alt="Cooked rice" style="width: 40%; max-width: 300px; height: auto;">
+</div>
 
 <b>Time to Eating:</b> 30 mins
 
