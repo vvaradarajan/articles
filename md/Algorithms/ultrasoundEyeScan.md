@@ -63,8 +63,11 @@ However double vision symptoms, in one direction, blurry vision remain. When loo
 
 The Halo picture is with the Right eye (injured) only. The halo effect is predominantly to the top-left quadrant. In a normal cataract the halos may be spread all around? This looks like a portion of the lens/ciliary/iris at some angle is structurally damaged?
 
-For comparison, I looked at the same with my left uninjured eye and did observe symmetric (all around) halo for a small radius around the LED.
+For comparison, I looked at the same with my left uninjured eye and did observe symmetric (all around) halo for a small radius around the LED.  
+Here are ultrasound images I took with my cellphone:  
+![Left and right eye ultrasound](img/eyeUltraSound/leftRight.png)
 
+This image shows a plane view and may not be the 9'oclock plane where ciliary damage was observed.  
 **Question**
 
 Is it possible by carefully examining the ultrasound images the specific section be identified. Is there a way to treat that specific section = perhaps check for localized fluid pressure build or structural damage and treat it?
