@@ -68,6 +68,8 @@ Here are ultrasound images I took with my cellphone:
 ![Left and right eye ultrasound](img/eyeUltraSound/leftRight.png)
 
 This image shows a plane view and may not be the 9'oclock plane where ciliary damage was observed.  
+
+
 **Question**
 
 Is it possible by carefully examining the ultrasound images the specific section be identified. Is there a way to treat that specific section = perhaps check for localized fluid pressure build or structural damage and treat it?
