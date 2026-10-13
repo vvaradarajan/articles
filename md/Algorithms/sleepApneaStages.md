@@ -8,7 +8,7 @@ Something like 25 times an hour. The heart rate is high (>70) during sleep. No d
 
 Internet: Loud Snoring, Breathing pauses, Gasping, choking or snorting that wakes you up. Dry mouth...Excessive daytime sleepiness, tired after a full night's rest//
 
-![Normal airway vs sleep apnea](img/spO2/sleepApneaNormalVsApnea.png)
+![Normal airway vs sleep apnea](img/spO2/mandibularA1.png)
 
 ## Stage 1: Sleep Recovered, but No dreams (2-3 nights)
 
