@@ -1,14 +1,16 @@
 # Stages of Sleep Apnea Recovery
 
-## Stage 0: Typical sleep Apnea
+## Stage 0: Typical sleep Apnea - Not using mouthpiece
 
 Having sleep Apnea episodes! Sleeps and a minute later stirs awake, breathes! Back to sleep..
 
 Something like 25 times an hour. The heart rate is high (>70) during sleep. No dreams. spO2 drops by over 4% frequently. Waking up 3-4 times each night. Daytime sleepiness is present. When lying down to sleep, cannot watch TV for more than a few minutes before dozing off.
 
-Internet: Loud Snoring, Breathing pauses, Gasping, choking or snorting that wakes you up. Dry mouth...Excessive daytime sleepiness, tired after a full night's rest//
+*Internet: Loud Snoring, Breathing pauses, Gasping, choking or snorting that wakes you up. Dry mouth...Excessive daytime sleepiness, tired after a full night's rest*
 
 ![Normal airway vs sleep apnea](img/spO2/mandibularA1.png)
+
+# Using Mandibular Advancement mouthpiece
 
 ## Stage 1: Sleep Recovered, but No dreams (2-3 nights)
 
@@ -16,7 +18,7 @@ Mouthpiece prevents tongue from falling back. spO2 remains high throughout. Waki
 
 ![Mandibular advancement keeps airway open](img/spO2/mandibularA2.png)
 
-Internet: Many users notice an immediate drop or total cessation of snoring on night one because advancing the mandible and tongue pulls soft tissue away from the back of the throat. For mild-to-moderate obstructive sleep apnea, initial improvements in sleep quality can lead to less daytime fatigue or less urge to nap within a few days to a week.
+*Internet: Many users notice an immediate drop or total cessation of snoring on night one because advancing the mandible and tongue pulls soft tissue away from the back of the throat. For mild-to-moderate obstructive sleep apnea, initial improvements in sleep quality can lead to less daytime fatigue or less urge to nap within a few days to a week.*
 
 ## Stage 2: Dreams recovered (Still going on for 4 days now):
 
@@ -26,7 +28,7 @@ Daytime sleepiness is short and still occurs. When lying down to sleep, cannot w
 
 Supposition: The brain now believes it can dream, and catches up on REM sleep.
 
-Internet: This surge in REM duration and intensity typically peaks during the first few nights and normalizes within a few weeks as your sleep architecture stabilizes. You may experience unusually long or vivid dreams, restless dreaming, morning grogginess, mild disorientation, or headaches.
+*Internet: This surge in REM duration and intensity typically peaks during the first few nights and normalizes within a few weeks as your sleep architecture stabilizes. You may experience unusually long or vivid dreams, restless dreaming, morning grogginess, mild disorientation, or headaches.*
 
 Supposition: REM sleep causes atonia - deep relaxation, during which breathing may also slow down. This causes spO2 to dip as well, even though the airways are open.
 
