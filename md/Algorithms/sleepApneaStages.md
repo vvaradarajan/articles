@@ -30,7 +30,7 @@ Supposition: The brain now believes it can dream, and catches up on REM sleep. P
 
 *Internet: This surge in REM duration and intensity typically peaks during the first few nights and normalizes within a few weeks as your sleep architecture stabilizes. You may experience unusually long or vivid dreams, restless dreaming, morning grogginess, mild disorientation, or headaches. You can have a "normal" or low overall daily AHI (under 5) while still experiencing high breathing event clusters during REM windows*
 
-## Stage 4: (Expectation after a few weeks)
+## Stage 3: (Expectation after a few weeks)
 
 Less dreams. High spO2 with fewer dips due to dreams. Daytime sleepiness is voluntary. This should be the normal sleep cycle without Sleep Apnea.
 
