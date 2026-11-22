@@ -13,3 +13,7 @@ Task 3: put the cup in the sink
 After picture (Generated using AI - took much longer than simply completing the tasks and taking another picture):   
 <img src="img/lessons/threeEventsAfter.jpeg" style="width: 66.67%; max-width: 1000px; height: auto;">  
 
+<b><u>Challenge!</u></b>  
+Using your sharp vision, find another task from the after picture.
+
+
