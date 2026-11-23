@@ -1,5 +1,19 @@
+# Contents
+
+- [Intro](#intro)
+- [Sunny side up](#sunny-side-up)
+- [Rice](#rice)
+- [Paruppu Sadham](#paruppu-sadham)
+- [Potatoes](#potatoes)
+- [Rajma, Channa, black-eyed beans ..](#rajma-channa-black-eyed-beans)
+- [Baingan, Sweet potatoes, cauliflower, broccoli ..](#baingan-sweet-potatoes-cauliflower-broccoli)
+- [Hash browns, pizza, soy nuggets ...](#hash-browns-pizza-soy-nuggets)
+- [Upma](#upma)
+
+<a id="intro"></a>
 # Intro
 What you need is Induction stovetop (one), Oil-spray bottle, Anjana potti (should be stocked with Turmeric, chilli power, mustard, jeera and any other masala's), Insta pot, microwave and Air-fryer, ceramic cookware.. You are all set.
+<a id="sunny-side-up"></a>
 # Sunny side up
 
 <b>Difficulty:</b>  Easy
@@ -13,6 +27,7 @@ What you need is Induction stovetop (one), Oil-spray bottle, Anjana potti (shoul
 
 <b>Time to Eating:</b> 30 mins
 
+<a id="rice"></a>
 # Rice
 
 <b>Difficulty:</b>  Easy
@@ -26,6 +41,7 @@ What you need is Induction stovetop (one), Oil-spray bottle, Anjana potti (shoul
 
 <b>Time to Eating:</b> 30 mins
 
+<a id="paruppu-sadham"></a>
 # Paruppu Sadham
 
 <b>Difficulty:</b>  Easy
@@ -39,6 +55,7 @@ What you need is Induction stovetop (one), Oil-spray bottle, Anjana potti (shoul
 
 <b>Time to Eating:</b> 30 mins
 
+<a id="potatoes"></a>
 # Potatoes
 
 <b>Ingredients:</b> potatoes, salt, spices
@@ -55,6 +72,7 @@ What you need is Induction stovetop (one), Oil-spray bottle, Anjana potti (shoul
 
 <b>Time to Eating:</b> cutting - 5 mins + rest - 7. Total: 12 mins
 
+<a id="rajma-channa-black-eyed-beans"></a>
 # Rajma, Channa, black-eyed beans, ..
 
 <b>Difficulty:</b>  Moderate
@@ -72,11 +90,13 @@ What you need is Induction stovetop (one), Oil-spray bottle, Anjana potti (shoul
 
 <b>Time to Eating:</b> (after soaking/instapot cooking): 20 mins.
 
+<a id="baingan-sweet-potatoes-cauliflower-broccoli"></a>
 # Baingan, Sweet potatoes, cauliflower, broccoli, ..
 Same process as potatoes above..
 
 <b>Time to Eating:</b> 12 minutes
 
+<a id="hash-browns-pizza-soy-nuggets"></a>
 # Hash browns, pizza, soy nuggets ...
 <b>Ingredients:</b> The frozen ones
 
@@ -87,6 +107,7 @@ Same process as potatoes above..
 
 <b>Time to Eating:</b> 7 minutes
 
+<a id="upma"></a>
 # Upma
 
 <b>Ingredients:</b> mustard, 1-spoon urad dal, salt, cashews, cream of wheat (main)
