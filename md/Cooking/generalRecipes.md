@@ -1,14 +1,14 @@
 # Contents
 
-- [Intro](#intro)
-- [Sunny side up](#sunny-side-up)
-- [Rice](#rice)
-- [Paruppu Sadham](#paruppu-sadham)
-- [Potatoes](#potatoes)
-- [Rajma, Channa, black-eyed beans ..](#rajma-channa-black-eyed-beans)
-- [Baingan, Sweet potatoes, cauliflower, broccoli ..](#baingan-sweet-potatoes-cauliflower-broccoli)
-- [Hash browns, pizza, soy nuggets ...](#hash-browns-pizza-soy-nuggets)
-- [Upma](#upma)
+- <a href="#intro" target="_self" onclick="event.preventDefault(); this.getRootNode().getElementById('intro').scrollIntoView({behavior: 'smooth'});">Intro</a>
+- <a href="#sunny-side-up" target="_self" onclick="event.preventDefault(); this.getRootNode().getElementById('sunny-side-up').scrollIntoView({behavior: 'smooth'});">Sunny side up</a>
+- <a href="#rice" target="_self" onclick="event.preventDefault(); this.getRootNode().getElementById('rice').scrollIntoView({behavior: 'smooth'});">Rice</a>
+- <a href="#paruppu-sadham" target="_self" onclick="event.preventDefault(); this.getRootNode().getElementById('paruppu-sadham').scrollIntoView({behavior: 'smooth'});">Paruppu Sadham</a>
+- <a href="#potatoes" target="_self" onclick="event.preventDefault(); this.getRootNode().getElementById('potatoes').scrollIntoView({behavior: 'smooth'});">Potatoes</a>
+- <a href="#rajma-channa-black-eyed-beans" target="_self" onclick="event.preventDefault(); this.getRootNode().getElementById('rajma-channa-black-eyed-beans').scrollIntoView({behavior: 'smooth'});">Rajma, Channa, black-eyed beans ..</a>
+- <a href="#baingan-sweet-potatoes-cauliflower-broccoli" target="_self" onclick="event.preventDefault(); this.getRootNode().getElementById('baingan-sweet-potatoes-cauliflower-broccoli').scrollIntoView({behavior: 'smooth'});">Baingan, Sweet potatoes, cauliflower, broccoli ..</a>
+- <a href="#hash-browns-pizza-soy-nuggets" target="_self" onclick="event.preventDefault(); this.getRootNode().getElementById('hash-browns-pizza-soy-nuggets').scrollIntoView({behavior: 'smooth'});">Hash browns, pizza, soy nuggets ...</a>
+- <a href="#upma" target="_self" onclick="event.preventDefault(); this.getRootNode().getElementById('upma').scrollIntoView({behavior: 'smooth'});">Upma</a>
 
 <a id="intro"></a>
 # Intro
